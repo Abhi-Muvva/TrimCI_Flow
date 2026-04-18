@@ -138,24 +138,30 @@ Both < 0.03 Ha → cross-fragment PT2 is not the missing piece at this partition
 ```
 TrimCI_Flow/
 ├── README.md
-├── progress.md              append-only experiment log (all runs)
+├── progress.md                    append-only experiment log (all runs)
+├── TrimCI_Flow_Results.ipynb      executed results notebook (no TrimCI calls)
 ├── __init__.py
 │
-├── core/                    shared utilities (all phases)
-│   ├── fragment.py          fragment_by_sliding_window, extract_fragment_integrals
-│   ├── trimci_adapter.py    solve_fragment_trimci, FragmentResult
-│   ├── results.py           FragmentedRunResult dataclass
-│   └── analysis.py          determinant_summary, convergence_summary
+├── data/                          Fe4S4 input data (see data/README.md)
+│   ├── fcidump_cycle_6            FCIDUMP integrals, 36 orbs, 54 electrons (9.2 MB)
+│   ├── dets.npz                   10,095 reference dets, row 0 = correlated ref det
+│   └── README.md                  dataset documentation
 │
-├── uncoupled/               Phase C — regression-locked, do not modify
-│   └── solver.py            run_fragmented_trimci → 118 dets
+├── core/                          shared utilities (all phases)
+│   ├── fragment.py                fragment_by_sliding_window, extract_fragment_integrals
+│   ├── trimci_adapter.py          solve_fragment_trimci, FragmentResult
+│   ├── results.py                 FragmentedRunResult dataclass
+│   └── analysis.py                determinant_summary, convergence_summary
 │
-├── mfa/                     Phase D + Phase E (active development)
-│   ├── helpers.py           compute_fragment_rdm1, dress_integrals_meanfield,
-│   │                        assemble_global_rdm1_diag
-│   ├── solver.py            partition builders, h1 dressing, energy formula
-│   ├── energy.py            Fock, MFA global energy, embedded corrections
-│   ├── extract_full_gamma.py  overlapping-fragment gamma extraction (Phase B input)
+├── uncoupled/                     Phase C — regression-locked, do not modify
+│   └── solver.py                  run_fragmented_trimci → 118 dets
+│
+├── mfa/                           Phase D + Phase E (active development)
+│   ├── helpers.py                 compute_fragment_rdm1, dress_integrals_meanfield,
+│   │                              assemble_global_rdm1_diag
+│   ├── solver.py                  partition builders, h1 dressing, energy formula
+│   ├── energy.py                  Fock, MFA global energy, embedded corrections
+│   ├── extract_full_gamma.py      overlapping-fragment gamma extraction
 │   └── runners/
 │       ├── run_d1_overlapping.py      Phase D1: overlapping benchmark
 │       └── run_d2_nonoverlapping.py   Phase D2: h1diag non-overlapping (canonical)
@@ -166,8 +172,8 @@ TrimCI_Flow/
 │   └── test_extract_full_gamma.py
 │
 └── Outputs/
-    ├── uncoupled/           Phase C output (regression reference)
-    └── mfa/                 Phase D outputs + gamma .npy input files
+    ├── uncoupled/                 Phase C output (regression reference)
+    └── mfa/                       Phase D outputs + gamma .npy input files
         ├── outs_extract_full_gamma_*/     gamma_mixed_diag/full/hybrid.npy
         ├── outs_notebook_d1_overlapping_*/
         ├── outs_notebook_d2_h1diag_threshold006_*/   canonical baseline (147 dets)
