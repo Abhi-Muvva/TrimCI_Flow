@@ -1,0 +1,47 @@
+{
+  "run_type": "Phase_B_v3_exp_c_embedded_iter0_gamma_avg5",
+  "timestamp": "2026-04-14T21:11:02.669430",
+  "fcidump": "/home/unfunnypanda/Proj_Flow/Fe4S4_251230orbital_-327.1920_10kdets/Fe4S4_251230orbital_-327.1920_10kdets/fcidump_cycle_6",
+  "window_size": 15,
+  "stride": 10,
+  "max_iterations": 60,
+  "convergence": 1e-06,
+  "rdm_convergence": 0.0001,
+  "damping": 0.1,
+  "n_gamma_avg": 5,
+  "trimci_config": {
+    "threshold": 0.03,
+    "max_final_dets": 200,
+    "max_rounds": 2,
+    "num_runs": 1,
+    "pool_build_strategy": "heat_bath",
+    "verbose": false
+  },
+  "converged": false,
+  "iterations_performed": 61,
+  "total_dets_final": 416,
+  "fragment_n_dets_final": [
+    200,
+    200,
+    16
+  ],
+  "fragment_energies_final": [
+    -44.20998805060768,
+    -59.016482980001456,
+    -95.16676311796154
+  ],
+  "convergence_delta": 0.11965604049776601,
+  "convergence_delta_rdm": 0.016368191929453824,
+  "bare_reference": {
+    "energies": [
+      -187.8114430784111,
+      -220.05269790583375,
+      -247.65898415232382
+    ],
+    "n_dets": [
+      200,
+      200,
+      16
+    ]
+  }
+}

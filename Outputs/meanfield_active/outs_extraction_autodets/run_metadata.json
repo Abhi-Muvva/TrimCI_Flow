@@ -1,0 +1,169 @@
+{
+  "run_type": "Phase_B_v6_extraction_autodets_threshold006",
+  "timestamp": "2026-04-15T11:36:54.557670",
+  "fcidump": "/home/unfunnypanda/Proj_Flow/Fe4S4_251230orbital_-327.1920_10kdets/Fe4S4_251230orbital_-327.1920_10kdets/fcidump_cycle_6",
+  "scf": {
+    "window_size": 15,
+    "stride": 10,
+    "max_iterations": 60,
+    "convergence": 0.05,
+    "rdm_convergence": 0.01,
+    "damping": 0.1,
+    "anderson_beta": 0.1,
+    "anderson_m": 5,
+    "anderson_reg": 0.01,
+    "fallback_threshold": 0.05,
+    "n_gamma_avg": 5,
+    "trimci_config": {
+      "threshold": 0.03,
+      "max_final_dets": 200,
+      "max_rounds": 2,
+      "num_runs": 1,
+      "pool_build_strategy": "heat_bath",
+      "verbose": false
+    },
+    "converged": true,
+    "iterations_performed": 34,
+    "total_dets_final": 416,
+    "fragment_n_dets_final": [
+      200,
+      200,
+      16
+    ],
+    "fragment_energies_final": [
+      -44.80798462277935,
+      -59.400524768655615,
+      -94.51122094684266
+    ],
+    "convergence_delta": 0.017716727336491545,
+    "convergence_delta_rdm": 0.0028109734874794956,
+    "bare_reference": {
+      "energies": [
+        -187.84774870685143,
+        -220.17735393407733,
+        -247.6589841523239
+      ],
+      "n_dets": [
+        200,
+        200,
+        16
+      ]
+    },
+    "late_stats_40_60": {},
+    "late_stats_50_60": {},
+    "threshold_dgamma": {
+      "0.05": {
+        "count": 26,
+        "first_iter": 7
+      },
+      "0.02": {
+        "count": 21,
+        "first_iter": 9
+      },
+      "0.01": {
+        "count": 7,
+        "first_iter": 11
+      },
+      "0.005": {
+        "count": 2,
+        "first_iter": 11
+      }
+    },
+    "anderson_count": 25,
+    "linear_or_fallback_count": 9
+  },
+  "extraction": {
+    "trimci_config": {
+      "threshold": 0.06,
+      "max_final_dets": "auto",
+      "max_rounds": 2,
+      "num_runs": 1,
+      "pool_build_strategy": "heat_bath",
+      "verbose": false
+    },
+    "fragment_results": [
+      {
+        "fragment": 0,
+        "orbs": [
+          2,
+          3,
+          6,
+          7,
+          8,
+          10,
+          11,
+          21,
+          24,
+          25,
+          26,
+          27,
+          29,
+          32,
+          33
+        ],
+        "n_alpha": 8,
+        "n_beta": 9,
+        "energy": -44.70801731411865,
+        "n_dets": 51
+      },
+      {
+        "fragment": 1,
+        "orbs": [
+          4,
+          5,
+          7,
+          9,
+          10,
+          12,
+          13,
+          20,
+          21,
+          22,
+          23,
+          28,
+          31,
+          32,
+          33
+        ],
+        "n_alpha": 11,
+        "n_beta": 11,
+        "energy": -59.27206316292383,
+        "n_dets": 51
+      },
+      {
+        "fragment": 2,
+        "orbs": [
+          0,
+          1,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22,
+          23,
+          30,
+          34,
+          35
+        ],
+        "n_alpha": 16,
+        "n_beta": 15,
+        "energy": -94.498923229987,
+        "n_dets": 16
+      }
+    ],
+    "fragment_n_dets": [
+      51,
+      51,
+      16
+    ],
+    "total_dets": 118,
+    "phaseC_baseline_total_dets": 118,
+    "delta_vs_phaseC": 0,
+    "verdict": "Phase B is neutral: same determinant count as Phase C"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "run_type": "Phase_B_refinit_damp01_200dets",
+  "formula": "J - 0.5K (spin-summed gamma)",
+  "changes_over_v1": [
+    "gamma_mixed initialized from reference determinant (not None)",
+    "Global gamma renormalized to conserve electron count",
+    "Damping unconditionally applied each iteration"
+  ],
+  "timestamp": "2026-04-14T14:42:58.856140",
+  "fcidump": "Fe4S4_251230orbital_-327.1920_10kdets/Fe4S4_251230orbital_-327.1920_10kdets/fcidump_cycle_6",
+  "window_size": 15,
+  "stride": 10,
+  "max_iterations": 40,
+  "convergence": 1e-06,
+  "rdm_convergence": 0.0001,
+  "damping": 0.1,
+  "trimci_config": {
+    "threshold": 0.03,
+    "max_final_dets": 200,
+    "max_rounds": 2,
+    "num_runs": 1,
+    "pool_build_strategy": "heat_bath",
+    "verbose": false
+  },
+  "converged": false,
+  "iterations_performed": 41,
+  "total_dets_final": 416,
+  "fragment_n_dets_final": [
+    200,
+    200,
+    16
+  ],
+  "fragment_energies_final": [
+    -44.19769521449386,
+    -58.308888794789965,
+    -94.80840646112799
+  ],
+  "convergence_delta": 0.2331170329795924,
+  "convergence_delta_rdm": 0.08246454539831127
+}

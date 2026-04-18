@@ -1,0 +1,3312 @@
+
+==== [ 2026-04-14 16:12:29 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:33 ] RUN_FULL END ====
+Summary: single | energy: -187.85586423 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161229880343_8
+
+
+==== [ 2026-04-14 16:12:33 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:35 ] RUN_FULL END ====
+Summary: single | energy: -219.91066858 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161233374289_8
+
+
+==== [ 2026-04-14 16:12:35 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:35 ] RUN_FULL END ====
+Summary: single | energy: -247.65898415 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161235726091_8
+
+
+==== [ 2026-04-14 16:12:35 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:41 ] RUN_FULL END ====
+Summary: single | energy: -47.22837403 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161235774069_8
+
+
+==== [ 2026-04-14 16:12:41 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:43 ] RUN_FULL END ====
+Summary: single | energy: -47.12400483 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161241513424_8
+
+
+==== [ 2026-04-14 16:12:43 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:45 ] RUN_FULL END ====
+Summary: single | energy: -47.30946937 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161243455915_8
+
+
+==== [ 2026-04-14 16:12:45 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:47 ] RUN_FULL END ====
+Summary: single | energy: -62.99782991 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161245654457_8
+
+
+==== [ 2026-04-14 16:12:47 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:49 ] RUN_FULL END ====
+Summary: single | energy: -62.99394651 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161247683328_8
+
+
+==== [ 2026-04-14 16:12:49 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:51 ] RUN_FULL END ====
+Summary: single | energy: -62.96128973 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161249832436_8
+
+
+==== [ 2026-04-14 16:12:51 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:51 ] RUN_FULL END ====
+Summary: single | energy: -96.48585805 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161251862770_8
+
+
+==== [ 2026-04-14 16:12:51 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:51 ] RUN_FULL END ====
+Summary: single | energy: -96.48585805 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161251919575_8
+
+
+==== [ 2026-04-14 16:12:51 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:52 ] RUN_FULL END ====
+Summary: single | energy: -96.48585805 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161251981807_8
+
+
+==== [ 2026-04-14 16:12:52 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:53 ] RUN_FULL END ====
+Summary: single | energy: -46.65807018 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161252046569_8
+
+
+==== [ 2026-04-14 16:12:53 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:55 ] RUN_FULL END ====
+Summary: single | energy: -46.67665393 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161253950800_8
+
+
+==== [ 2026-04-14 16:12:56 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:12:58 ] RUN_FULL END ====
+Summary: single | energy: -46.76208815 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161256006361_8
+
+
+==== [ 2026-04-14 16:12:58 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:00 ] RUN_FULL END ====
+Summary: single | energy: -62.59440673 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161258274057_8
+
+
+==== [ 2026-04-14 16:13:00 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:02 ] RUN_FULL END ====
+Summary: single | energy: -62.58593279 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161300531543_8
+
+
+==== [ 2026-04-14 16:13:02 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:04 ] RUN_FULL END ====
+Summary: single | energy: -62.59431008 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161302684650_8
+
+
+==== [ 2026-04-14 16:13:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:04 ] RUN_FULL END ====
+Summary: single | energy: -95.87680223 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161304811889_8
+
+
+==== [ 2026-04-14 16:13:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:04 ] RUN_FULL END ====
+Summary: single | energy: -95.87680223 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161304883328_8
+
+
+==== [ 2026-04-14 16:13:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:04 ] RUN_FULL END ====
+Summary: single | energy: -95.87680223 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161304951529_8
+
+
+==== [ 2026-04-14 16:13:05 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:07 ] RUN_FULL END ====
+Summary: single | energy: -46.34911286 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161305003383_8
+
+
+==== [ 2026-04-14 16:13:07 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:08 ] RUN_FULL END ====
+Summary: single | energy: -46.35071409 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161307194713_8
+
+
+==== [ 2026-04-14 16:13:08 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:10 ] RUN_FULL END ====
+Summary: single | energy: -46.36602844 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161308991601_8
+
+
+==== [ 2026-04-14 16:13:11 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:16 ] RUN_FULL END ====
+Summary: single | energy: -62.43881256 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161311011676_8
+
+
+==== [ 2026-04-14 16:13:16 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:19 ] RUN_FULL END ====
+Summary: single | energy: -62.39980726 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161316740116_8
+
+
+==== [ 2026-04-14 16:13:19 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:21 ] RUN_FULL END ====
+Summary: single | energy: -62.42869478 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161319096883_8
+
+
+==== [ 2026-04-14 16:13:21 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:21 ] RUN_FULL END ====
+Summary: single | energy: -95.53123514 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161321169472_8
+
+
+==== [ 2026-04-14 16:13:21 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:21 ] RUN_FULL END ====
+Summary: single | energy: -95.53123514 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161321255613_8
+
+
+==== [ 2026-04-14 16:13:21 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:21 ] RUN_FULL END ====
+Summary: single | energy: -95.53123514 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161321338104_8
+
+
+==== [ 2026-04-14 16:13:21 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:26 ] RUN_FULL END ====
+Summary: single | energy: -46.22541335 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161321421921_8
+
+
+==== [ 2026-04-14 16:13:26 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:28 ] RUN_FULL END ====
+Summary: single | energy: -46.24081905 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161326603196_8
+
+
+==== [ 2026-04-14 16:13:28 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:30 ] RUN_FULL END ====
+Summary: single | energy: -46.14702246 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161328821952_8
+
+
+==== [ 2026-04-14 16:13:30 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:32 ] RUN_FULL END ====
+Summary: single | energy: -61.88532207 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161330890530_8
+
+
+==== [ 2026-04-14 16:13:32 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:34 ] RUN_FULL END ====
+Summary: single | energy: -61.86952229 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161332862295_8
+
+
+==== [ 2026-04-14 16:13:34 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:37 ] RUN_FULL END ====
+Summary: single | energy: -61.86386971 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161334995817_8
+
+
+==== [ 2026-04-14 16:13:37 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:37 ] RUN_FULL END ====
+Summary: single | energy: -95.04704921 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161337172135_8
+
+
+==== [ 2026-04-14 16:13:37 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:37 ] RUN_FULL END ====
+Summary: single | energy: -95.04704921 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161337253015_8
+
+
+==== [ 2026-04-14 16:13:37 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:37 ] RUN_FULL END ====
+Summary: single | energy: -95.04704921 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161337336140_8
+
+
+==== [ 2026-04-14 16:13:37 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:39 ] RUN_FULL END ====
+Summary: single | energy: -45.77795733 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161337398517_8
+
+
+==== [ 2026-04-14 16:13:39 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:41 ] RUN_FULL END ====
+Summary: single | energy: -45.87425151 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161339211635_8
+
+
+==== [ 2026-04-14 16:13:41 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:44 ] RUN_FULL END ====
+Summary: single | energy: -45.94156343 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161341915373_8
+
+
+==== [ 2026-04-14 16:13:44 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:51 ] RUN_FULL END ====
+Summary: single | energy: -61.74408839 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161344656520_8
+
+
+==== [ 2026-04-14 16:13:51 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:53 ] RUN_FULL END ====
+Summary: single | energy: -61.75968333 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161351359945_8
+
+
+==== [ 2026-04-14 16:13:53 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:55 ] RUN_FULL END ====
+Summary: single | energy: -61.70542908 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161353429565_8
+
+
+==== [ 2026-04-14 16:13:55 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:55 ] RUN_FULL END ====
+Summary: single | energy: -94.84812800 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161355438338_8
+
+
+==== [ 2026-04-14 16:13:55 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:55 ] RUN_FULL END ====
+Summary: single | energy: -94.84812800 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161355503968_8
+
+
+==== [ 2026-04-14 16:13:55 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:55 ] RUN_FULL END ====
+Summary: single | energy: -94.84812800 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161355619084_8
+
+
+==== [ 2026-04-14 16:13:55 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:57 ] RUN_FULL END ====
+Summary: single | energy: -45.84992593 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161355679060_8
+
+
+==== [ 2026-04-14 16:13:57 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:13:59 ] RUN_FULL END ====
+Summary: single | energy: -45.79562834 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161357784639_8
+
+
+==== [ 2026-04-14 16:13:59 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:01 ] RUN_FULL END ====
+Summary: single | energy: -45.75572871 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161359790236_8
+
+
+==== [ 2026-04-14 16:14:01 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:03 ] RUN_FULL END ====
+Summary: single | energy: -61.46225107 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161401701762_8
+
+
+==== [ 2026-04-14 16:14:03 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:05 ] RUN_FULL END ====
+Summary: single | energy: -61.38314576 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161403881162_8
+
+
+==== [ 2026-04-14 16:14:05 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:07 ] RUN_FULL END ====
+Summary: single | energy: -61.37473419 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161405875216_8
+
+
+==== [ 2026-04-14 16:14:07 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:07 ] RUN_FULL END ====
+Summary: single | energy: -94.75598188 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161407934756_8
+
+
+==== [ 2026-04-14 16:14:08 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:08 ] RUN_FULL END ====
+Summary: single | energy: -94.75598188 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161408009098_8
+
+
+==== [ 2026-04-14 16:14:08 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:08 ] RUN_FULL END ====
+Summary: single | energy: -94.75598188 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161408107073_8
+
+
+==== [ 2026-04-14 16:14:08 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:10 ] RUN_FULL END ====
+Summary: single | energy: -45.29721949 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161408199256_8
+
+
+==== [ 2026-04-14 16:14:10 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:12 ] RUN_FULL END ====
+Summary: single | energy: -45.40185895 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161410139409_8
+
+
+==== [ 2026-04-14 16:14:12 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:14 ] RUN_FULL END ====
+Summary: single | energy: -45.28035940 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161412081967_8
+
+
+==== [ 2026-04-14 16:14:14 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:16 ] RUN_FULL END ====
+Summary: single | energy: -61.45522014 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161414043803_8
+
+
+==== [ 2026-04-14 16:14:16 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:18 ] RUN_FULL END ====
+Summary: single | energy: -61.45455195 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161416597207_8
+
+
+==== [ 2026-04-14 16:14:18 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:21 ] RUN_FULL END ====
+Summary: single | energy: -61.42109805 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161418653324_8
+
+
+==== [ 2026-04-14 16:14:21 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:21 ] RUN_FULL END ====
+Summary: single | energy: -94.54164246 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161421064562_8
+
+
+==== [ 2026-04-14 16:14:21 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:21 ] RUN_FULL END ====
+Summary: single | energy: -94.54164246 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161421147534_8
+
+
+==== [ 2026-04-14 16:14:21 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:21 ] RUN_FULL END ====
+Summary: single | energy: -94.54164246 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161421246700_8
+
+
+==== [ 2026-04-14 16:14:21 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:27 ] RUN_FULL END ====
+Summary: single | energy: -45.46238966 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161421323191_8
+
+
+==== [ 2026-04-14 16:14:27 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:29 ] RUN_FULL END ====
+Summary: single | energy: -45.47068475 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161427570078_8
+
+
+==== [ 2026-04-14 16:14:29 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:33 ] RUN_FULL END ====
+Summary: single | energy: -45.49449147 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161429653709_8
+
+
+==== [ 2026-04-14 16:14:33 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:35 ] RUN_FULL END ====
+Summary: single | energy: -60.80292924 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161433107886_8
+
+
+==== [ 2026-04-14 16:14:35 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:37 ] RUN_FULL END ====
+Summary: single | energy: -60.80085350 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161435372739_8
+
+
+==== [ 2026-04-14 16:14:37 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:39 ] RUN_FULL END ====
+Summary: single | energy: -60.79333033 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161437503211_8
+
+
+==== [ 2026-04-14 16:14:39 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:39 ] RUN_FULL END ====
+Summary: single | energy: -94.14790893 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161439451284_8
+
+
+==== [ 2026-04-14 16:14:39 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:39 ] RUN_FULL END ====
+Summary: single | energy: -94.14790893 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161439572990_8
+
+
+==== [ 2026-04-14 16:14:39 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:39 ] RUN_FULL END ====
+Summary: single | energy: -94.14790893 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161439649681_8
+
+
+==== [ 2026-04-14 16:14:39 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:41 ] RUN_FULL END ====
+Summary: single | energy: -45.24070691 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161439707611_8
+
+
+==== [ 2026-04-14 16:14:41 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:43 ] RUN_FULL END ====
+Summary: single | energy: -45.40073225 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161441580801_8
+
+
+==== [ 2026-04-14 16:14:43 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:45 ] RUN_FULL END ====
+Summary: single | energy: -45.24878170 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161443491158_8
+
+
+==== [ 2026-04-14 16:14:45 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:47 ] RUN_FULL END ====
+Summary: single | energy: -60.76802485 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161445332814_8
+
+
+==== [ 2026-04-14 16:14:47 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:49 ] RUN_FULL END ====
+Summary: single | energy: -60.76844600 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161447380071_8
+
+
+==== [ 2026-04-14 16:14:49 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:51 ] RUN_FULL END ====
+Summary: single | energy: -60.73931395 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161449677466_8
+
+
+==== [ 2026-04-14 16:14:51 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:51 ] RUN_FULL END ====
+Summary: single | energy: -94.16764165 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161451739270_8
+
+
+==== [ 2026-04-14 16:14:51 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:51 ] RUN_FULL END ====
+Summary: single | energy: -94.16764165 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161451817210_8
+
+
+==== [ 2026-04-14 16:14:51 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:51 ] RUN_FULL END ====
+Summary: single | energy: -94.16764165 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161451882651_8
+
+
+==== [ 2026-04-14 16:14:51 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:54 ] RUN_FULL END ====
+Summary: single | energy: -45.11051710 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161451949595_8
+
+
+==== [ 2026-04-14 16:14:54 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:55 ] RUN_FULL END ====
+Summary: single | energy: -45.10973778 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161454074338_8
+
+
+==== [ 2026-04-14 16:14:56 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:14:58 ] RUN_FULL END ====
+Summary: single | energy: -45.20673708 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161456025862_8
+
+
+==== [ 2026-04-14 16:14:58 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:03 ] RUN_FULL END ====
+Summary: single | energy: -60.44923621 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161458078347_8
+
+
+==== [ 2026-04-14 16:15:03 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:05 ] RUN_FULL END ====
+Summary: single | energy: -60.38571769 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161503793180_8
+
+
+==== [ 2026-04-14 16:15:05 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:07 ] RUN_FULL END ====
+Summary: single | energy: -60.35195193 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161505751964_8
+
+
+==== [ 2026-04-14 16:15:07 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:07 ] RUN_FULL END ====
+Summary: single | energy: -93.86767135 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161507656097_8
+
+
+==== [ 2026-04-14 16:15:07 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:07 ] RUN_FULL END ====
+Summary: single | energy: -93.86767135 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161507718451_8
+
+
+==== [ 2026-04-14 16:15:07 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:07 ] RUN_FULL END ====
+Summary: single | energy: -93.86767135 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161507784411_8
+
+
+==== [ 2026-04-14 16:15:07 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:09 ] RUN_FULL END ====
+Summary: single | energy: -45.21175251 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161507891603_8
+
+
+==== [ 2026-04-14 16:15:09 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:11 ] RUN_FULL END ====
+Summary: single | energy: -45.03333816 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161509858581_8
+
+
+==== [ 2026-04-14 16:15:11 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:13 ] RUN_FULL END ====
+Summary: single | energy: -45.21779292 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161511911353_8
+
+
+==== [ 2026-04-14 16:15:13 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:15 ] RUN_FULL END ====
+Summary: single | energy: -60.11369054 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161513812046_8
+
+
+==== [ 2026-04-14 16:15:15 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:18 ] RUN_FULL END ====
+Summary: single | energy: -60.08892912 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161515978603_8
+
+
+==== [ 2026-04-14 16:15:18 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:20 ] RUN_FULL END ====
+Summary: single | energy: -60.08946373 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161518197039_8
+
+
+==== [ 2026-04-14 16:15:20 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:20 ] RUN_FULL END ====
+Summary: single | energy: -93.70035695 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161520378496_8
+
+
+==== [ 2026-04-14 16:15:20 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:20 ] RUN_FULL END ====
+Summary: single | energy: -93.70035695 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161520472628_8
+
+
+==== [ 2026-04-14 16:15:20 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:20 ] RUN_FULL END ====
+Summary: single | energy: -93.70035695 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161520544315_8
+
+
+==== [ 2026-04-14 16:15:20 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:22 ] RUN_FULL END ====
+Summary: single | energy: -45.08274893 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161520602624_8
+
+
+==== [ 2026-04-14 16:15:22 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:24 ] RUN_FULL END ====
+Summary: single | energy: -45.03302888 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161522654260_8
+
+
+==== [ 2026-04-14 16:15:24 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:26 ] RUN_FULL END ====
+Summary: single | energy: -45.03233887 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161524837385_8
+
+
+==== [ 2026-04-14 16:15:26 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:28 ] RUN_FULL END ====
+Summary: single | energy: -59.99746428 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161526868984_8
+
+
+==== [ 2026-04-14 16:15:29 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:30 ] RUN_FULL END ====
+Summary: single | energy: -60.00865531 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161529033562_8
+
+
+==== [ 2026-04-14 16:15:31 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:33 ] RUN_FULL END ====
+Summary: single | energy: -60.00421636 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161531018833_8
+
+
+==== [ 2026-04-14 16:15:33 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:33 ] RUN_FULL END ====
+Summary: single | energy: -93.62303308 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161533084507_8
+
+
+==== [ 2026-04-14 16:15:33 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:33 ] RUN_FULL END ====
+Summary: single | energy: -93.62303308 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161533140176_8
+
+
+==== [ 2026-04-14 16:15:33 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:33 ] RUN_FULL END ====
+Summary: single | energy: -93.62303308 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161533203342_8
+
+
+==== [ 2026-04-14 16:15:33 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:38 ] RUN_FULL END ====
+Summary: single | energy: -45.07821339 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161533263218_8
+
+
+==== [ 2026-04-14 16:15:38 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:40 ] RUN_FULL END ====
+Summary: single | energy: -45.05672788 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161538860214_8
+
+
+==== [ 2026-04-14 16:15:40 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:42 ] RUN_FULL END ====
+Summary: single | energy: -44.99394157 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161540828184_8
+
+
+==== [ 2026-04-14 16:15:42 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:44 ] RUN_FULL END ====
+Summary: single | energy: -59.83155597 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161542774813_8
+
+
+==== [ 2026-04-14 16:15:44 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:46 ] RUN_FULL END ====
+Summary: single | energy: -59.78966260 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161544790921_8
+
+
+==== [ 2026-04-14 16:15:46 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:49 ] RUN_FULL END ====
+Summary: single | energy: -59.79068982 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161546997819_8
+
+
+==== [ 2026-04-14 16:15:49 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:49 ] RUN_FULL END ====
+Summary: single | energy: -93.45110968 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161549144630_8
+
+
+==== [ 2026-04-14 16:15:49 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:49 ] RUN_FULL END ====
+Summary: single | energy: -93.45110968 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161549206232_8
+
+
+==== [ 2026-04-14 16:15:49 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:49 ] RUN_FULL END ====
+Summary: single | energy: -93.45110968 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161549264114_8
+
+
+==== [ 2026-04-14 16:15:49 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:51 ] RUN_FULL END ====
+Summary: single | energy: -44.92930854 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161549401987_8
+
+
+==== [ 2026-04-14 16:15:51 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:53 ] RUN_FULL END ====
+Summary: single | energy: -44.98474817 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161551810806_8
+
+
+==== [ 2026-04-14 16:15:53 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:55 ] RUN_FULL END ====
+Summary: single | energy: -44.90958717 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161553646466_8
+
+
+==== [ 2026-04-14 16:15:55 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:15:57 ] RUN_FULL END ====
+Summary: single | energy: -59.70987932 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161555634131_8
+
+
+==== [ 2026-04-14 16:15:57 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:01 ] RUN_FULL END ====
+Summary: single | energy: -59.71514729 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161557689372_8
+
+
+==== [ 2026-04-14 16:16:01 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:04 ] RUN_FULL END ====
+Summary: single | energy: -59.68365637 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161601540241_8
+
+
+==== [ 2026-04-14 16:16:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:04 ] RUN_FULL END ====
+Summary: single | energy: -93.52583091 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161604060397_8
+
+
+==== [ 2026-04-14 16:16:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:04 ] RUN_FULL END ====
+Summary: single | energy: -93.52583091 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161604138571_8
+
+
+==== [ 2026-04-14 16:16:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:04 ] RUN_FULL END ====
+Summary: single | energy: -93.52583091 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161604230705_8
+
+
+==== [ 2026-04-14 16:16:04 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:07 ] RUN_FULL END ====
+Summary: single | energy: -44.91430664 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161604315501_8
+
+
+==== [ 2026-04-14 16:16:07 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:09 ] RUN_FULL END ====
+Summary: single | energy: -44.79504676 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161607216237_8
+
+
+==== [ 2026-04-14 16:16:09 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:16 ] RUN_FULL END ====
+Summary: single | energy: -44.93381826 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161609812367_8
+
+
+==== [ 2026-04-14 16:16:16 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:19 ] RUN_FULL END ====
+Summary: single | energy: -59.58367744 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161616488437_8
+
+
+==== [ 2026-04-14 16:16:19 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:21 ] RUN_FULL END ====
+Summary: single | energy: -59.60116844 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161619190837_8
+
+
+==== [ 2026-04-14 16:16:21 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:23 ] RUN_FULL END ====
+Summary: single | energy: -59.57435425 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161621307182_8
+
+
+==== [ 2026-04-14 16:16:23 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:23 ] RUN_FULL END ====
+Summary: single | energy: -93.58145491 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161623616687_8
+
+
+==== [ 2026-04-14 16:16:23 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:23 ] RUN_FULL END ====
+Summary: single | energy: -93.58145491 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161623737906_8
+
+
+==== [ 2026-04-14 16:16:23 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:23 ] RUN_FULL END ====
+Summary: single | energy: -93.58145491 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161623803356_8
+
+
+==== [ 2026-04-14 16:16:23 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:25 ] RUN_FULL END ====
+Summary: single | energy: -44.88861936 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161623862614_8
+
+
+==== [ 2026-04-14 16:16:25 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:28 ] RUN_FULL END ====
+Summary: single | energy: -44.93704695 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161625928876_8
+
+
+==== [ 2026-04-14 16:16:28 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:30 ] RUN_FULL END ====
+Summary: single | energy: -44.69937953 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161628266698_8
+
+
+==== [ 2026-04-14 16:16:30 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:32 ] RUN_FULL END ====
+Summary: single | energy: -59.38684427 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161630410298_8
+
+
+==== [ 2026-04-14 16:16:32 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:34 ] RUN_FULL END ====
+Summary: single | energy: -59.33596988 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161632629797_8
+
+
+==== [ 2026-04-14 16:16:34 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:36 ] RUN_FULL END ====
+Summary: single | energy: -59.34320583 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161634688269_8
+
+
+==== [ 2026-04-14 16:16:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:36 ] RUN_FULL END ====
+Summary: single | energy: -93.62248841 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161636774932_8
+
+
+==== [ 2026-04-14 16:16:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:36 ] RUN_FULL END ====
+Summary: single | energy: -93.62248841 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161636839589_8
+
+
+==== [ 2026-04-14 16:16:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:36 ] RUN_FULL END ====
+Summary: single | energy: -93.62248841 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161636897806_8
+
+
+==== [ 2026-04-14 16:16:36 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:39 ] RUN_FULL END ====
+Summary: single | energy: -44.79234894 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161636955704_8
+
+
+==== [ 2026-04-14 16:16:39 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:41 ] RUN_FULL END ====
+Summary: single | energy: -44.79129182 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161639135349_8
+
+
+==== [ 2026-04-14 16:16:41 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:43 ] RUN_FULL END ====
+Summary: single | energy: -44.58080838 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161641089356_8
+
+
+==== [ 2026-04-14 16:16:43 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:45 ] RUN_FULL END ====
+Summary: single | energy: -59.21043312 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161643047476_8
+
+
+==== [ 2026-04-14 16:16:45 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:50 ] RUN_FULL END ====
+Summary: single | energy: -59.20847088 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161645105736_8
+
+
+==== [ 2026-04-14 16:16:50 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:53 ] RUN_FULL END ====
+Summary: single | energy: -59.21348365 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161650859367_8
+
+
+==== [ 2026-04-14 16:16:53 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:53 ] RUN_FULL END ====
+Summary: single | energy: -93.62914951 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161653227450_8
+
+
+==== [ 2026-04-14 16:16:53 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:53 ] RUN_FULL END ====
+Summary: single | energy: -93.62914951 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161653296759_8
+
+
+==== [ 2026-04-14 16:16:53 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:53 ] RUN_FULL END ====
+Summary: single | energy: -93.62914951 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161653362555_8
+
+
+==== [ 2026-04-14 16:16:53 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:55 ] RUN_FULL END ====
+Summary: single | energy: -44.81874038 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161653430980_8
+
+
+==== [ 2026-04-14 16:16:55 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:57 ] RUN_FULL END ====
+Summary: single | energy: -44.85749526 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161655670408_8
+
+
+==== [ 2026-04-14 16:16:57 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:16:59 ] RUN_FULL END ====
+Summary: single | energy: -44.83128358 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161657764176_8
+
+
+==== [ 2026-04-14 16:16:59 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:02 ] RUN_FULL END ====
+Summary: single | energy: -59.09782287 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161659921340_8
+
+
+==== [ 2026-04-14 16:17:02 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:04 ] RUN_FULL END ====
+Summary: single | energy: -59.10393651 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161702040510_8
+
+
+==== [ 2026-04-14 16:17:04 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:06 ] RUN_FULL END ====
+Summary: single | energy: -59.09994609 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161704119132_8
+
+
+==== [ 2026-04-14 16:17:06 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:06 ] RUN_FULL END ====
+Summary: single | energy: -93.80214148 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161706220070_8
+
+
+==== [ 2026-04-14 16:17:06 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:06 ] RUN_FULL END ====
+Summary: single | energy: -93.80214148 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161706297330_8
+
+
+==== [ 2026-04-14 16:17:06 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:06 ] RUN_FULL END ====
+Summary: single | energy: -93.80214148 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161706370556_8
+
+
+==== [ 2026-04-14 16:17:06 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:08 ] RUN_FULL END ====
+Summary: single | energy: -44.85713511 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161706459814_8
+
+
+==== [ 2026-04-14 16:17:08 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:10 ] RUN_FULL END ====
+Summary: single | energy: -44.97374633 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161708578400_8
+
+
+==== [ 2026-04-14 16:17:10 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:12 ] RUN_FULL END ====
+Summary: single | energy: -44.85936444 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161710838837_8
+
+
+==== [ 2026-04-14 16:17:12 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:14 ] RUN_FULL END ====
+Summary: single | energy: -59.03517884 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161712959774_8
+
+
+==== [ 2026-04-14 16:17:14 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:17 ] RUN_FULL END ====
+Summary: single | energy: -59.04985743 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161714994645_8
+
+
+==== [ 2026-04-14 16:17:17 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:19 ] RUN_FULL END ====
+Summary: single | energy: -59.06779370 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161717505496_8
+
+
+==== [ 2026-04-14 16:17:19 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:19 ] RUN_FULL END ====
+Summary: single | energy: -94.12508455 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161719755407_8
+
+
+==== [ 2026-04-14 16:17:19 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:19 ] RUN_FULL END ====
+Summary: single | energy: -94.12508455 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161719892853_8
+
+
+==== [ 2026-04-14 16:17:19 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:20 ] RUN_FULL END ====
+Summary: single | energy: -94.12508455 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161719984011_8
+
+
+==== [ 2026-04-14 16:17:20 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:22 ] RUN_FULL END ====
+Summary: single | energy: -44.89674788 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161720124553_8
+
+
+==== [ 2026-04-14 16:17:22 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:27 ] RUN_FULL END ====
+Summary: single | energy: -44.83976004 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161722262359_8
+
+
+==== [ 2026-04-14 16:17:27 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:29 ] RUN_FULL END ====
+Summary: single | energy: -44.89274575 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161727948981_8
+
+
+==== [ 2026-04-14 16:17:29 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:32 ] RUN_FULL END ====
+Summary: single | energy: -59.12888359 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161729939566_8
+
+
+==== [ 2026-04-14 16:17:32 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:34 ] RUN_FULL END ====
+Summary: single | energy: -59.12342528 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161732054038_8
+
+
+==== [ 2026-04-14 16:17:34 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:36 ] RUN_FULL END ====
+Summary: single | energy: -59.13559815 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161734166698_8
+
+
+==== [ 2026-04-14 16:17:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:36 ] RUN_FULL END ====
+Summary: single | energy: -94.26066244 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161736181963_8
+
+
+==== [ 2026-04-14 16:17:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:36 ] RUN_FULL END ====
+Summary: single | energy: -94.26066244 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161736275929_8
+
+
+==== [ 2026-04-14 16:17:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:36 ] RUN_FULL END ====
+Summary: single | energy: -94.26066244 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161736359734_8
+
+
+==== [ 2026-04-14 16:17:36 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:38 ] RUN_FULL END ====
+Summary: single | energy: -44.86073389 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161736435197_8
+
+
+==== [ 2026-04-14 16:17:38 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:40 ] RUN_FULL END ====
+Summary: single | energy: -44.84264911 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161738665154_8
+
+
+==== [ 2026-04-14 16:17:40 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:42 ] RUN_FULL END ====
+Summary: single | energy: -44.70644627 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161740680050_8
+
+
+==== [ 2026-04-14 16:17:42 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:44 ] RUN_FULL END ====
+Summary: single | energy: -59.06184365 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161742729855_8
+
+
+==== [ 2026-04-14 16:17:44 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:47 ] RUN_FULL END ====
+Summary: single | energy: -59.09417146 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161744807729_8
+
+
+==== [ 2026-04-14 16:17:47 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:49 ] RUN_FULL END ====
+Summary: single | energy: -58.94201983 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161747061716_8
+
+
+==== [ 2026-04-14 16:17:49 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:49 ] RUN_FULL END ====
+Summary: single | energy: -94.42637136 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161749188388_8
+
+
+==== [ 2026-04-14 16:17:49 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:49 ] RUN_FULL END ====
+Summary: single | energy: -94.42637136 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161749248329_8
+
+
+==== [ 2026-04-14 16:17:49 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:49 ] RUN_FULL END ====
+Summary: single | energy: -94.42637136 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161749306626_8
+
+
+==== [ 2026-04-14 16:17:49 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:51 ] RUN_FULL END ====
+Summary: single | energy: -44.84698488 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161749363029_8
+
+
+==== [ 2026-04-14 16:17:51 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:53 ] RUN_FULL END ====
+Summary: single | energy: -44.68364381 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161751979138_8
+
+
+==== [ 2026-04-14 16:17:53 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:17:55 ] RUN_FULL END ====
+Summary: single | energy: -44.82781075 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161753869713_8
+
+
+==== [ 2026-04-14 16:17:55 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:02 ] RUN_FULL END ====
+Summary: single | energy: -58.77865356 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161755929191_8
+
+
+==== [ 2026-04-14 16:18:02 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:04 ] RUN_FULL END ====
+Summary: single | energy: -58.76352017 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161802180482_8
+
+
+==== [ 2026-04-14 16:18:04 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:06 ] RUN_FULL END ====
+Summary: single | energy: -58.71403830 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161804209340_8
+
+
+==== [ 2026-04-14 16:18:06 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:06 ] RUN_FULL END ====
+Summary: single | energy: -94.20132155 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161806457876_8
+
+
+==== [ 2026-04-14 16:18:06 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:06 ] RUN_FULL END ====
+Summary: single | energy: -94.20132155 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161806555986_8
+
+
+==== [ 2026-04-14 16:18:06 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:06 ] RUN_FULL END ====
+Summary: single | energy: -94.20132155 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161806654822_8
+
+
+==== [ 2026-04-14 16:18:06 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:09 ] RUN_FULL END ====
+Summary: single | energy: -44.89706505 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161806736859_8
+
+
+==== [ 2026-04-14 16:18:09 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:11 ] RUN_FULL END ====
+Summary: single | energy: -44.69754027 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161809454470_8
+
+
+==== [ 2026-04-14 16:18:11 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:13 ] RUN_FULL END ====
+Summary: single | energy: -44.93429073 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161811660819_8
+
+
+==== [ 2026-04-14 16:18:13 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:15 ] RUN_FULL END ====
+Summary: single | energy: -58.48034654 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161813746587_8
+
+
+==== [ 2026-04-14 16:18:15 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:18 ] RUN_FULL END ====
+Summary: single | energy: -58.60008748 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161815914819_8
+
+
+==== [ 2026-04-14 16:18:18 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:20 ] RUN_FULL END ====
+Summary: single | energy: -58.59472040 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161818598628_8
+
+
+==== [ 2026-04-14 16:18:20 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:20 ] RUN_FULL END ====
+Summary: single | energy: -94.23885099 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161820819575_8
+
+
+==== [ 2026-04-14 16:18:20 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:20 ] RUN_FULL END ====
+Summary: single | energy: -94.23885099 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161820896042_8
+
+
+==== [ 2026-04-14 16:18:20 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:21 ] RUN_FULL END ====
+Summary: single | energy: -94.23885099 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161820984044_8
+
+
+==== [ 2026-04-14 16:18:21 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:23 ] RUN_FULL END ====
+Summary: single | energy: -44.61006907 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161821065131_8
+
+
+==== [ 2026-04-14 16:18:23 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:25 ] RUN_FULL END ====
+Summary: single | energy: -44.68152676 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161823207323_8
+
+
+==== [ 2026-04-14 16:18:25 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:27 ] RUN_FULL END ====
+Summary: single | energy: -44.62401466 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161825435933_8
+
+
+==== [ 2026-04-14 16:18:27 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:29 ] RUN_FULL END ====
+Summary: single | energy: -58.54733758 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161827354563_8
+
+
+==== [ 2026-04-14 16:18:29 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:31 ] RUN_FULL END ====
+Summary: single | energy: -58.62443115 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161829447453_8
+
+
+==== [ 2026-04-14 16:18:31 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:33 ] RUN_FULL END ====
+Summary: single | energy: -58.63650941 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161831588635_8
+
+
+==== [ 2026-04-14 16:18:33 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:33 ] RUN_FULL END ====
+Summary: single | energy: -94.19101216 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161833653366_8
+
+
+==== [ 2026-04-14 16:18:33 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:33 ] RUN_FULL END ====
+Summary: single | energy: -94.19101216 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161833721696_8
+
+
+==== [ 2026-04-14 16:18:33 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:33 ] RUN_FULL END ====
+Summary: single | energy: -94.19101216 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161833802251_8
+
+
+==== [ 2026-04-14 16:18:33 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:39 ] RUN_FULL END ====
+Summary: single | energy: -44.38234949 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161833858827_8
+
+
+==== [ 2026-04-14 16:18:39 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:41 ] RUN_FULL END ====
+Summary: single | energy: -44.41077962 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161839526876_8
+
+
+==== [ 2026-04-14 16:18:41 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:43 ] RUN_FULL END ====
+Summary: single | energy: -44.58907787 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161841680414_8
+
+
+==== [ 2026-04-14 16:18:43 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:45 ] RUN_FULL END ====
+Summary: single | energy: -58.69913114 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161843759036_8
+
+
+==== [ 2026-04-14 16:18:45 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:48 ] RUN_FULL END ====
+Summary: single | energy: -58.72134384 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161845940589_8
+
+
+==== [ 2026-04-14 16:18:48 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:50 ] RUN_FULL END ====
+Summary: single | energy: -58.76320139 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161848187208_8
+
+
+==== [ 2026-04-14 16:18:50 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:50 ] RUN_FULL END ====
+Summary: single | energy: -94.28073883 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161850382385_8
+
+
+==== [ 2026-04-14 16:18:50 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:50 ] RUN_FULL END ====
+Summary: single | energy: -94.28073883 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161850468278_8
+
+
+==== [ 2026-04-14 16:18:50 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:50 ] RUN_FULL END ====
+Summary: single | energy: -94.28073883 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161850649028_8
+
+
+==== [ 2026-04-14 16:18:50 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:53 ] RUN_FULL END ====
+Summary: single | energy: -44.43867093 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161850713664_8
+
+
+==== [ 2026-04-14 16:18:53 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:55 ] RUN_FULL END ====
+Summary: single | energy: -44.48733822 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161853274310_8
+
+
+==== [ 2026-04-14 16:18:55 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:57 ] RUN_FULL END ====
+Summary: single | energy: -44.44113982 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161855279786_8
+
+
+==== [ 2026-04-14 16:18:57 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:18:59 ] RUN_FULL END ====
+Summary: single | energy: -58.66376523 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161857444437_8
+
+
+==== [ 2026-04-14 16:18:59 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:02 ] RUN_FULL END ====
+Summary: single | energy: -58.67774409 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161859496696_8
+
+
+==== [ 2026-04-14 16:19:02 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:03 ] RUN_FULL END ====
+Summary: single | energy: -58.60745632 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161902069100_8
+
+
+==== [ 2026-04-14 16:19:03 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:04 ] RUN_FULL END ====
+Summary: single | energy: -94.19737621 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161903947431_8
+
+
+==== [ 2026-04-14 16:19:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:04 ] RUN_FULL END ====
+Summary: single | energy: -94.19737621 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161904200220_8
+
+
+==== [ 2026-04-14 16:19:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:04 ] RUN_FULL END ====
+Summary: single | energy: -94.19737621 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161904293216_8
+
+
+==== [ 2026-04-14 16:19:04 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:06 ] RUN_FULL END ====
+Summary: single | energy: -44.37347227 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161904384359_8
+
+
+==== [ 2026-04-14 16:19:06 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:08 ] RUN_FULL END ====
+Summary: single | energy: -44.35624232 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161906510827_8
+
+
+==== [ 2026-04-14 16:19:08 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:14 ] RUN_FULL END ====
+Summary: single | energy: -44.34054108 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161908538602_8
+
+
+==== [ 2026-04-14 16:19:14 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:16 ] RUN_FULL END ====
+Summary: single | energy: -58.60893658 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161914317455_8
+
+
+==== [ 2026-04-14 16:19:16 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:19 ] RUN_FULL END ====
+Summary: single | energy: -58.58331631 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161916803739_8
+
+
+==== [ 2026-04-14 16:19:19 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:21 ] RUN_FULL END ====
+Summary: single | energy: -58.52524094 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161919282912_8
+
+
+==== [ 2026-04-14 16:19:21 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:21 ] RUN_FULL END ====
+Summary: single | energy: -94.14403545 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161921204175_8
+
+
+==== [ 2026-04-14 16:19:21 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:21 ] RUN_FULL END ====
+Summary: single | energy: -94.14403545 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161921316832_8
+
+
+==== [ 2026-04-14 16:19:21 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:21 ] RUN_FULL END ====
+Summary: single | energy: -94.14403545 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161921450151_8
+
+
+==== [ 2026-04-14 16:19:21 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:23 ] RUN_FULL END ====
+Summary: single | energy: -44.40275215 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161921513005_8
+
+
+==== [ 2026-04-14 16:19:23 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:25 ] RUN_FULL END ====
+Summary: single | energy: -44.29596204 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161923708106_8
+
+
+==== [ 2026-04-14 16:19:25 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:27 ] RUN_FULL END ====
+Summary: single | energy: -44.31163489 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161925736165_8
+
+
+==== [ 2026-04-14 16:19:27 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:29 ] RUN_FULL END ====
+Summary: single | energy: -58.73145314 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161927925898_8
+
+
+==== [ 2026-04-14 16:19:30 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:32 ] RUN_FULL END ====
+Summary: single | energy: -58.73478218 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161930029975_8
+
+
+==== [ 2026-04-14 16:19:32 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:34 ] RUN_FULL END ====
+Summary: single | energy: -58.73746037 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161932244352_8
+
+
+==== [ 2026-04-14 16:19:34 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:34 ] RUN_FULL END ====
+Summary: single | energy: -94.26567572 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161934459171_8
+
+
+==== [ 2026-04-14 16:19:34 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:34 ] RUN_FULL END ====
+Summary: single | energy: -94.26567572 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161934568916_8
+
+
+==== [ 2026-04-14 16:19:34 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:34 ] RUN_FULL END ====
+Summary: single | energy: -94.26567572 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161934659799_8
+
+
+==== [ 2026-04-14 16:19:34 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:37 ] RUN_FULL END ====
+Summary: single | energy: -44.47964845 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161934725163_8
+
+
+==== [ 2026-04-14 16:19:37 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:40 ] RUN_FULL END ====
+Summary: single | energy: -44.41724771 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161937897570_8
+
+
+==== [ 2026-04-14 16:19:40 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:42 ] RUN_FULL END ====
+Summary: single | energy: -44.23983373 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161940355222_8
+
+
+==== [ 2026-04-14 16:19:42 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:43 ] RUN_FULL END ====
+Summary: single | energy: -58.56616198 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161942099661_8
+
+
+==== [ 2026-04-14 16:19:43 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:49 ] RUN_FULL END ====
+Summary: single | energy: -58.49657956 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161943949779_8
+
+
+==== [ 2026-04-14 16:19:49 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:51 ] RUN_FULL END ====
+Summary: single | energy: -58.56024889 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161949510207_8
+
+
+==== [ 2026-04-14 16:19:51 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:51 ] RUN_FULL END ====
+Summary: single | energy: -94.40704909 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161951417948_8
+
+
+==== [ 2026-04-14 16:19:51 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:51 ] RUN_FULL END ====
+Summary: single | energy: -94.40704909 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161951476844_8
+
+
+==== [ 2026-04-14 16:19:51 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:51 ] RUN_FULL END ====
+Summary: single | energy: -94.40704909 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_161951553489_8
+
+
+==== [ 2026-04-14 16:19:51 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:53 ] RUN_FULL END ====
+Summary: single | energy: -44.03207818 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161951633327_8
+
+
+==== [ 2026-04-14 16:19:53 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:55 ] RUN_FULL END ====
+Summary: single | energy: -44.10682686 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161953936718_8
+
+
+==== [ 2026-04-14 16:19:55 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:19:57 ] RUN_FULL END ====
+Summary: single | energy: -44.19453950 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_161955933165_8
+
+
+==== [ 2026-04-14 16:19:57 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:00 ] RUN_FULL END ====
+Summary: single | energy: -58.65695018 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_161957904966_8
+
+
+==== [ 2026-04-14 16:20:00 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:01 ] RUN_FULL END ====
+Summary: single | energy: -58.65910990 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162000054506_8
+
+
+==== [ 2026-04-14 16:20:02 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:03 ] RUN_FULL END ====
+Summary: single | energy: -58.67736644 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162002003275_8
+
+
+==== [ 2026-04-14 16:20:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:04 ] RUN_FULL END ====
+Summary: single | energy: -94.26692429 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162004033237_8
+
+
+==== [ 2026-04-14 16:20:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:04 ] RUN_FULL END ====
+Summary: single | energy: -94.26692429 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162004095279_8
+
+
+==== [ 2026-04-14 16:20:04 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:04 ] RUN_FULL END ====
+Summary: single | energy: -94.26692429 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162004163857_8
+
+
+==== [ 2026-04-14 16:20:04 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:06 ] RUN_FULL END ====
+Summary: single | energy: -44.30952794 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162004257260_8
+
+
+==== [ 2026-04-14 16:20:06 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:08 ] RUN_FULL END ====
+Summary: single | energy: -44.40430083 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162006363023_8
+
+
+==== [ 2026-04-14 16:20:08 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:10 ] RUN_FULL END ====
+Summary: single | energy: -44.39414725 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162008532581_8
+
+
+==== [ 2026-04-14 16:20:10 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:12 ] RUN_FULL END ====
+Summary: single | energy: -58.34253745 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162010599180_8
+
+
+==== [ 2026-04-14 16:20:12 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:14 ] RUN_FULL END ====
+Summary: single | energy: -58.28892943 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162012656138_8
+
+
+==== [ 2026-04-14 16:20:14 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:16 ] RUN_FULL END ====
+Summary: single | energy: -58.34825506 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162014536181_8
+
+
+==== [ 2026-04-14 16:20:16 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:16 ] RUN_FULL END ====
+Summary: single | energy: -94.33305216 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162016543407_8
+
+
+==== [ 2026-04-14 16:20:16 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:16 ] RUN_FULL END ====
+Summary: single | energy: -94.33305216 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162016604063_8
+
+
+==== [ 2026-04-14 16:20:16 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:16 ] RUN_FULL END ====
+Summary: single | energy: -94.33305216 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162016680199_8
+
+
+==== [ 2026-04-14 16:20:16 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:18 ] RUN_FULL END ====
+Summary: single | energy: -44.34517228 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162016779347_8
+
+
+==== [ 2026-04-14 16:20:18 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:20 ] RUN_FULL END ====
+Summary: single | energy: -44.20957299 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162018817480_8
+
+
+==== [ 2026-04-14 16:20:20 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:26 ] RUN_FULL END ====
+Summary: single | energy: -44.28138309 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162020794319_8
+
+
+==== [ 2026-04-14 16:20:26 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:28 ] RUN_FULL END ====
+Summary: single | energy: -58.56745322 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162026482269_8
+
+
+==== [ 2026-04-14 16:20:28 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:30 ] RUN_FULL END ====
+Summary: single | energy: -58.52497126 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162028380245_8
+
+
+==== [ 2026-04-14 16:20:30 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:32 ] RUN_FULL END ====
+Summary: single | energy: -58.55028269 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162030353413_8
+
+
+==== [ 2026-04-14 16:20:32 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:32 ] RUN_FULL END ====
+Summary: single | energy: -94.49598060 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162032521738_8
+
+
+==== [ 2026-04-14 16:20:32 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:32 ] RUN_FULL END ====
+Summary: single | energy: -94.49598060 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162032585939_8
+
+
+==== [ 2026-04-14 16:20:32 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:32 ] RUN_FULL END ====
+Summary: single | energy: -94.49598060 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162032651475_8
+
+
+==== [ 2026-04-14 16:20:32 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:34 ] RUN_FULL END ====
+Summary: single | energy: -44.16852274 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162032711664_8
+
+
+==== [ 2026-04-14 16:20:34 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:36 ] RUN_FULL END ====
+Summary: single | energy: -44.31203392 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162034824689_8
+
+
+==== [ 2026-04-14 16:20:36 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:38 ] RUN_FULL END ====
+Summary: single | energy: -44.36697000 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162036921513_8
+
+
+==== [ 2026-04-14 16:20:38 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:41 ] RUN_FULL END ====
+Summary: single | energy: -58.40338923 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162038983557_8
+
+
+==== [ 2026-04-14 16:20:41 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:43 ] RUN_FULL END ====
+Summary: single | energy: -58.42551740 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162041184736_8
+
+
+==== [ 2026-04-14 16:20:43 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:45 ] RUN_FULL END ====
+Summary: single | energy: -58.43785916 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162043735137_8
+
+
+==== [ 2026-04-14 16:20:45 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:45 ] RUN_FULL END ====
+Summary: single | energy: -94.45683246 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162045563623_8
+
+
+==== [ 2026-04-14 16:20:45 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:45 ] RUN_FULL END ====
+Summary: single | energy: -94.45683246 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162045672697_8
+
+
+==== [ 2026-04-14 16:20:45 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:45 ] RUN_FULL END ====
+Summary: single | energy: -94.45683246 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162045738615_8
+
+
+==== [ 2026-04-14 16:20:45 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:47 ] RUN_FULL END ====
+Summary: single | energy: -44.31407427 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162045888544_8
+
+
+==== [ 2026-04-14 16:20:47 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:50 ] RUN_FULL END ====
+Summary: single | energy: -44.32586458 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162047822234_8
+
+
+==== [ 2026-04-14 16:20:50 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:52 ] RUN_FULL END ====
+Summary: single | energy: -44.41182663 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162050059184_8
+
+
+==== [ 2026-04-14 16:20:52 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:54 ] RUN_FULL END ====
+Summary: single | energy: -58.45799101 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162052234318_8
+
+
+==== [ 2026-04-14 16:20:54 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:20:56 ] RUN_FULL END ====
+Summary: single | energy: -58.41852593 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162054369726_8
+
+
+==== [ 2026-04-14 16:20:56 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:02 ] RUN_FULL END ====
+Summary: single | energy: -58.34440742 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162056389019_8
+
+
+==== [ 2026-04-14 16:21:02 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:02 ] RUN_FULL END ====
+Summary: single | energy: -94.59512049 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162102170126_8
+
+
+==== [ 2026-04-14 16:21:02 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:02 ] RUN_FULL END ====
+Summary: single | energy: -94.59512049 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162102253015_8
+
+
+==== [ 2026-04-14 16:21:02 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:02 ] RUN_FULL END ====
+Summary: single | energy: -94.59512049 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162102329309_8
+
+
+==== [ 2026-04-14 16:21:02 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:04 ] RUN_FULL END ====
+Summary: single | energy: -44.31733663 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162102514553_8
+
+
+==== [ 2026-04-14 16:21:04 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:06 ] RUN_FULL END ====
+Summary: single | energy: -44.28434832 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162104714235_8
+
+
+==== [ 2026-04-14 16:21:06 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:08 ] RUN_FULL END ====
+Summary: single | energy: -43.97142689 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162106883651_8
+
+
+==== [ 2026-04-14 16:21:08 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:10 ] RUN_FULL END ====
+Summary: single | energy: -58.38889792 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162108709977_8
+
+
+==== [ 2026-04-14 16:21:10 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:12 ] RUN_FULL END ====
+Summary: single | energy: -58.39144269 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162110957098_8
+
+
+==== [ 2026-04-14 16:21:12 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:14 ] RUN_FULL END ====
+Summary: single | energy: -58.39275590 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162112862983_8
+
+
+==== [ 2026-04-14 16:21:14 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:14 ] RUN_FULL END ====
+Summary: single | energy: -94.51751013 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162114789847_8
+
+
+==== [ 2026-04-14 16:21:14 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:14 ] RUN_FULL END ====
+Summary: single | energy: -94.51751013 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162114865242_8
+
+
+==== [ 2026-04-14 16:21:14 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:14 ] RUN_FULL END ====
+Summary: single | energy: -94.51751013 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162114953278_8
+
+
+==== [ 2026-04-14 16:21:15 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:17 ] RUN_FULL END ====
+Summary: single | energy: -44.12551384 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162115022204_8
+
+
+==== [ 2026-04-14 16:21:17 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:19 ] RUN_FULL END ====
+Summary: single | energy: -44.31019152 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162117080237_8
+
+
+==== [ 2026-04-14 16:21:19 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:22 ] RUN_FULL END ====
+Summary: single | energy: -44.37372577 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162119753080_8
+
+
+==== [ 2026-04-14 16:21:22 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:23 ] RUN_FULL END ====
+Summary: single | energy: -58.47154025 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162122074671_8
+
+
+==== [ 2026-04-14 16:21:23 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:25 ] RUN_FULL END ====
+Summary: single | energy: -58.46746866 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162123904258_8
+
+
+==== [ 2026-04-14 16:21:25 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:28 ] RUN_FULL END ====
+Summary: single | energy: -58.51224260 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162125847912_8
+
+
+==== [ 2026-04-14 16:21:28 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:28 ] RUN_FULL END ====
+Summary: single | energy: -94.78755941 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162128171831_8
+
+
+==== [ 2026-04-14 16:21:28 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:28 ] RUN_FULL END ====
+Summary: single | energy: -94.78755941 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162128265122_8
+
+
+==== [ 2026-04-14 16:21:28 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:28 ] RUN_FULL END ====
+Summary: single | energy: -94.78755941 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162128349477_8
+
+
+==== [ 2026-04-14 16:21:28 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:31 ] RUN_FULL END ====
+Summary: single | energy: -44.43325822 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162128417004_8
+
+
+==== [ 2026-04-14 16:21:31 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:37 ] RUN_FULL END ====
+Summary: single | energy: -44.35869558 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162131717781_8
+
+
+==== [ 2026-04-14 16:21:37 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:39 ] RUN_FULL END ====
+Summary: single | energy: -44.43966333 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162137305059_8
+
+
+==== [ 2026-04-14 16:21:39 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:41 ] RUN_FULL END ====
+Summary: single | energy: -58.28253470 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162139298992_8
+
+
+==== [ 2026-04-14 16:21:41 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:43 ] RUN_FULL END ====
+Summary: single | energy: -58.32475362 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162141428272_8
+
+
+==== [ 2026-04-14 16:21:43 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:45 ] RUN_FULL END ====
+Summary: single | energy: -58.35678466 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162143336852_8
+
+
+==== [ 2026-04-14 16:21:45 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:45 ] RUN_FULL END ====
+Summary: single | energy: -94.79216071 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162145589020_8
+
+
+==== [ 2026-04-14 16:21:45 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:45 ] RUN_FULL END ====
+Summary: single | energy: -94.79216071 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162145666851_8
+
+
+==== [ 2026-04-14 16:21:45 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:45 ] RUN_FULL END ====
+Summary: single | energy: -94.79216071 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162145739178_8
+
+
+==== [ 2026-04-14 16:21:45 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:47 ] RUN_FULL END ====
+Summary: single | energy: -44.05839799 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162145832013_8
+
+
+==== [ 2026-04-14 16:21:47 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:50 ] RUN_FULL END ====
+Summary: single | energy: -44.17691895 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162147916266_8
+
+
+==== [ 2026-04-14 16:21:50 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:52 ] RUN_FULL END ====
+Summary: single | energy: -44.14447323 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162150102537_8
+
+
+==== [ 2026-04-14 16:21:52 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:54 ] RUN_FULL END ====
+Summary: single | energy: -58.39867415 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162152160946_8
+
+
+==== [ 2026-04-14 16:21:54 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:56 ] RUN_FULL END ====
+Summary: single | energy: -58.47885635 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162154064634_8
+
+
+==== [ 2026-04-14 16:21:56 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:58 ] RUN_FULL END ====
+Summary: single | energy: -58.45133345 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162156300326_8
+
+
+==== [ 2026-04-14 16:21:58 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:58 ] RUN_FULL END ====
+Summary: single | energy: -94.62034202 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162158479081_8
+
+
+==== [ 2026-04-14 16:21:58 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:58 ] RUN_FULL END ====
+Summary: single | energy: -94.62034202 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162158615040_8
+
+
+==== [ 2026-04-14 16:21:58 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:21:58 ] RUN_FULL END ====
+Summary: single | energy: -94.62034202 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162158699480_8
+
+
+==== [ 2026-04-14 16:21:58 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:00 ] RUN_FULL END ====
+Summary: single | energy: -44.15633752 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162158782715_8
+
+
+==== [ 2026-04-14 16:22:00 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:03 ] RUN_FULL END ====
+Summary: single | energy: -44.09807301 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162200911554_8
+
+
+==== [ 2026-04-14 16:22:03 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:05 ] RUN_FULL END ====
+Summary: single | energy: -44.06682461 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162203071990_8
+
+
+==== [ 2026-04-14 16:22:05 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:07 ] RUN_FULL END ====
+Summary: single | energy: -58.49801254 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162205340971_8
+
+
+==== [ 2026-04-14 16:22:07 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:12 ] RUN_FULL END ====
+Summary: single | energy: -58.49718275 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162207290961_8
+
+
+==== [ 2026-04-14 16:22:12 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:14 ] RUN_FULL END ====
+Summary: single | energy: -58.49954099 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162212919276_8
+
+
+==== [ 2026-04-14 16:22:14 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:14 ] RUN_FULL END ====
+Summary: single | energy: -94.48792284 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162214897698_8
+
+
+==== [ 2026-04-14 16:22:15 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:15 ] RUN_FULL END ====
+Summary: single | energy: -94.48792284 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162215007290_8
+
+
+==== [ 2026-04-14 16:22:15 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:15 ] RUN_FULL END ====
+Summary: single | energy: -94.48792284 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162215085947_8
+
+
+==== [ 2026-04-14 16:22:15 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:17 ] RUN_FULL END ====
+Summary: single | energy: -44.13242438 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162215181636_8
+
+
+==== [ 2026-04-14 16:22:17 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:19 ] RUN_FULL END ====
+Summary: single | energy: -44.15601150 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162217161111_8
+
+
+==== [ 2026-04-14 16:22:19 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:21 ] RUN_FULL END ====
+Summary: single | energy: -44.17071827 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162219717502_8
+
+
+==== [ 2026-04-14 16:22:21 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:23 ] RUN_FULL END ====
+Summary: single | energy: -58.51497718 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162221840901_8
+
+
+==== [ 2026-04-14 16:22:23 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:25 ] RUN_FULL END ====
+Summary: single | energy: -58.51213906 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162223971393_8
+
+
+==== [ 2026-04-14 16:22:25 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:28 ] RUN_FULL END ====
+Summary: single | energy: -58.48085434 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162225995347_8
+
+
+==== [ 2026-04-14 16:22:28 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:28 ] RUN_FULL END ====
+Summary: single | energy: -94.55401334 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162228082808_8
+
+
+==== [ 2026-04-14 16:22:28 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:28 ] RUN_FULL END ====
+Summary: single | energy: -94.55401334 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162228158529_8
+
+
+==== [ 2026-04-14 16:22:28 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:28 ] RUN_FULL END ====
+Summary: single | energy: -94.55401334 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162228236759_8
+
+
+==== [ 2026-04-14 16:22:28 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:30 ] RUN_FULL END ====
+Summary: single | energy: -44.04835281 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162228316866_8
+
+
+==== [ 2026-04-14 16:22:30 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:32 ] RUN_FULL END ====
+Summary: single | energy: -43.99903488 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162230382931_8
+
+
+==== [ 2026-04-14 16:22:32 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:34 ] RUN_FULL END ====
+Summary: single | energy: -44.11313350 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162232449650_8
+
+
+==== [ 2026-04-14 16:22:34 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:36 ] RUN_FULL END ====
+Summary: single | energy: -58.71078684 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162234574767_8
+
+
+==== [ 2026-04-14 16:22:36 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:38 ] RUN_FULL END ====
+Summary: single | energy: -58.71017390 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162236736849_8
+
+
+==== [ 2026-04-14 16:22:38 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:40 ] RUN_FULL END ====
+Summary: single | energy: -58.70265643 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162238723210_8
+
+
+==== [ 2026-04-14 16:22:40 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:40 ] RUN_FULL END ====
+Summary: single | energy: -94.69169025 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162240751114_8
+
+
+==== [ 2026-04-14 16:22:40 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:40 ] RUN_FULL END ====
+Summary: single | energy: -94.69169025 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162240835640_8
+
+
+==== [ 2026-04-14 16:22:40 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:40 ] RUN_FULL END ====
+Summary: single | energy: -94.69169025 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162240924958_8
+
+
+==== [ 2026-04-14 16:22:40 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:42 ] RUN_FULL END ====
+Summary: single | energy: -44.06304493 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162240985553_8
+
+
+==== [ 2026-04-14 16:22:42 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:44 ] RUN_FULL END ====
+Summary: single | energy: -43.85945151 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162242908506_8
+
+
+==== [ 2026-04-14 16:22:44 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:50 ] RUN_FULL END ====
+Summary: single | energy: -44.06718356 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162244833205_8
+
+
+==== [ 2026-04-14 16:22:50 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:52 ] RUN_FULL END ====
+Summary: single | energy: -58.86106343 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162250338484_8
+
+
+==== [ 2026-04-14 16:22:52 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:54 ] RUN_FULL END ====
+Summary: single | energy: -58.86126459 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162252315356_8
+
+
+==== [ 2026-04-14 16:22:54 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:56 ] RUN_FULL END ====
+Summary: single | energy: -58.85740030 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162254207478_8
+
+
+==== [ 2026-04-14 16:22:56 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:56 ] RUN_FULL END ====
+Summary: single | energy: -94.83049841 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162256555355_8
+
+
+==== [ 2026-04-14 16:22:56 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:56 ] RUN_FULL END ====
+Summary: single | energy: -94.83049841 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162256627867_8
+
+
+==== [ 2026-04-14 16:22:56 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:56 ] RUN_FULL END ====
+Summary: single | energy: -94.83049841 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162256696589_8
+
+
+==== [ 2026-04-14 16:22:56 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:22:58 ] RUN_FULL END ====
+Summary: single | energy: -44.04543439 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162256757010_8
+
+
+==== [ 2026-04-14 16:22:58 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:01 ] RUN_FULL END ====
+Summary: single | energy: -44.18198731 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162258920885_8
+
+
+==== [ 2026-04-14 16:23:01 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:03 ] RUN_FULL END ====
+Summary: single | energy: -44.23675046 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162301337303_8
+
+
+==== [ 2026-04-14 16:23:03 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:05 ] RUN_FULL END ====
+Summary: single | energy: -58.66896265 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162303464444_8
+
+
+==== [ 2026-04-14 16:23:05 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:07 ] RUN_FULL END ====
+Summary: single | energy: -58.67050280 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162305698083_8
+
+
+==== [ 2026-04-14 16:23:07 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:09 ] RUN_FULL END ====
+Summary: single | energy: -58.66960638 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162307781881_8
+
+
+==== [ 2026-04-14 16:23:09 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:09 ] RUN_FULL END ====
+Summary: single | energy: -94.94481996 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162309853762_8
+
+
+==== [ 2026-04-14 16:23:09 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:09 ] RUN_FULL END ====
+Summary: single | energy: -94.94481996 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162309920933_8
+
+
+==== [ 2026-04-14 16:23:09 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:10 ] RUN_FULL END ====
+Summary: single | energy: -94.94481996 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162309988462_8
+
+
+==== [ 2026-04-14 16:23:10 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:12 ] RUN_FULL END ====
+Summary: single | energy: -44.26735054 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162310110601_8
+
+
+==== [ 2026-04-14 16:23:12 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:14 ] RUN_FULL END ====
+Summary: single | energy: -44.26171026 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162312171625_8
+
+
+==== [ 2026-04-14 16:23:14 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:16 ] RUN_FULL END ====
+Summary: single | energy: -44.33233197 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162314269004_8
+
+
+==== [ 2026-04-14 16:23:16 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:19 ] RUN_FULL END ====
+Summary: single | energy: -58.56038512 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162316842546_8
+
+
+==== [ 2026-04-14 16:23:19 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:20 ] RUN_FULL END ====
+Summary: single | energy: -58.55337482 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162319071739_8
+
+
+==== [ 2026-04-14 16:23:24 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:26 ] RUN_FULL END ====
+Summary: single | energy: -58.55953033 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162324496089_8
+
+
+==== [ 2026-04-14 16:23:26 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:26 ] RUN_FULL END ====
+Summary: single | energy: -95.04167270 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162326514915_8
+
+
+==== [ 2026-04-14 16:23:26 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:26 ] RUN_FULL END ====
+Summary: single | energy: -95.04167270 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162326625708_8
+
+
+==== [ 2026-04-14 16:23:26 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:26 ] RUN_FULL END ====
+Summary: single | energy: -95.04167270 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162326765420_8
+
+
+==== [ 2026-04-14 16:23:26 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:29 ] RUN_FULL END ====
+Summary: single | energy: -44.34607894 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162326890249_8
+
+
+==== [ 2026-04-14 16:23:29 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:31 ] RUN_FULL END ====
+Summary: single | energy: -44.33856329 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162329063551_8
+
+
+==== [ 2026-04-14 16:23:31 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:33 ] RUN_FULL END ====
+Summary: single | energy: -44.32881187 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162331278832_8
+
+
+==== [ 2026-04-14 16:23:33 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:35 ] RUN_FULL END ====
+Summary: single | energy: -58.51215692 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162333387562_8
+
+
+==== [ 2026-04-14 16:23:35 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:37 ] RUN_FULL END ====
+Summary: single | energy: -58.56456955 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162335545378_8
+
+
+==== [ 2026-04-14 16:23:37 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:39 ] RUN_FULL END ====
+Summary: single | energy: -58.53275987 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162337476615_8
+
+
+==== [ 2026-04-14 16:23:39 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:39 ] RUN_FULL END ====
+Summary: single | energy: -95.18940514 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162339771792_8
+
+
+==== [ 2026-04-14 16:23:39 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:39 ] RUN_FULL END ====
+Summary: single | energy: -95.18940514 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162339838658_8
+
+
+==== [ 2026-04-14 16:23:39 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:39 ] RUN_FULL END ====
+Summary: single | energy: -95.18940514 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162339910634_8
+
+
+==== [ 2026-04-14 16:23:39 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:41 ] RUN_FULL END ====
+Summary: single | energy: -44.33438002 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162339970800_8
+
+
+==== [ 2026-04-14 16:23:41 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:43 ] RUN_FULL END ====
+Summary: single | energy: -44.39669580 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162341913691_8
+
+
+==== [ 2026-04-14 16:23:43 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:45 ] RUN_FULL END ====
+Summary: single | energy: -44.45592699 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162343784809_8
+
+
+==== [ 2026-04-14 16:23:45 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:48 ] RUN_FULL END ====
+Summary: single | energy: -58.33757037 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162345939751_8
+
+
+==== [ 2026-04-14 16:23:48 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:50 ] RUN_FULL END ====
+Summary: single | energy: -58.25536324 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162348197356_8
+
+
+==== [ 2026-04-14 16:23:50 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:52 ] RUN_FULL END ====
+Summary: single | energy: -58.33175948 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162350203964_8
+
+
+==== [ 2026-04-14 16:23:52 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:52 ] RUN_FULL END ====
+Summary: single | energy: -95.13904508 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162352340841_8
+
+
+==== [ 2026-04-14 16:23:52 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:52 ] RUN_FULL END ====
+Summary: single | energy: -95.13904508 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162352410625_8
+
+
+==== [ 2026-04-14 16:23:52 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:52 ] RUN_FULL END ====
+Summary: single | energy: -95.13904508 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162352551436_8
+
+
+==== [ 2026-04-14 16:23:52 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:23:54 ] RUN_FULL END ====
+Summary: single | energy: -44.37473214 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162352761805_8
+
+
+==== [ 2026-04-14 16:23:54 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:00 ] RUN_FULL END ====
+Summary: single | energy: -44.43625971 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162354827035_8
+
+
+==== [ 2026-04-14 16:24:00 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:02 ] RUN_FULL END ====
+Summary: single | energy: -44.36115099 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162400710566_8
+
+
+==== [ 2026-04-14 16:24:02 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:04 ] RUN_FULL END ====
+Summary: single | energy: -58.46095381 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162402800215_8
+
+
+==== [ 2026-04-14 16:24:05 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:07 ] RUN_FULL END ====
+Summary: single | energy: -58.53584985 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162405006868_8
+
+
+==== [ 2026-04-14 16:24:07 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:09 ] RUN_FULL END ====
+Summary: single | energy: -58.50639958 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162407357434_8
+
+
+==== [ 2026-04-14 16:24:09 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:09 ] RUN_FULL END ====
+Summary: single | energy: -95.27542443 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162409547339_8
+
+
+==== [ 2026-04-14 16:24:09 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:09 ] RUN_FULL END ====
+Summary: single | energy: -95.27542443 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162409610630_8
+
+
+==== [ 2026-04-14 16:24:09 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:09 ] RUN_FULL END ====
+Summary: single | energy: -95.27542443 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162409677150_8
+
+
+==== [ 2026-04-14 16:24:09 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:12 ] RUN_FULL END ====
+Summary: single | energy: -44.32149932 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162409764263_8
+
+
+==== [ 2026-04-14 16:24:12 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:15 ] RUN_FULL END ====
+Summary: single | energy: -44.24190595 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162412797286_8
+
+
+==== [ 2026-04-14 16:24:15 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:18 ] RUN_FULL END ====
+Summary: single | energy: -44.31643326 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162415601202_8
+
+
+==== [ 2026-04-14 16:24:18 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:20 ] RUN_FULL END ====
+Summary: single | energy: -58.41744087 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162418240317_8
+
+
+==== [ 2026-04-14 16:24:20 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:22 ] RUN_FULL END ====
+Summary: single | energy: -58.43702896 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162420236369_8
+
+
+==== [ 2026-04-14 16:24:22 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:24 ] RUN_FULL END ====
+Summary: single | energy: -58.43957860 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162422397841_8
+
+
+==== [ 2026-04-14 16:24:24 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:24 ] RUN_FULL END ====
+Summary: single | energy: -95.04304606 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162424271699_8
+
+
+==== [ 2026-04-14 16:24:24 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:24 ] RUN_FULL END ====
+Summary: single | energy: -95.04304606 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162424469111_8
+
+
+==== [ 2026-04-14 16:24:24 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:24 ] RUN_FULL END ====
+Summary: single | energy: -95.04304606 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162424581392_8
+
+
+==== [ 2026-04-14 16:24:24 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:26 ] RUN_FULL END ====
+Summary: single | energy: -44.23292056 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162424641650_8
+
+
+==== [ 2026-04-14 16:24:26 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:28 ] RUN_FULL END ====
+Summary: single | energy: -44.17568557 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162426481601_8
+
+
+==== [ 2026-04-14 16:24:28 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:30 ] RUN_FULL END ====
+Summary: single | energy: -44.10383429 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162428474418_8
+
+
+==== [ 2026-04-14 16:24:30 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:32 ] RUN_FULL END ====
+Summary: single | energy: -58.57873943 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162430381161_8
+
+
+==== [ 2026-04-14 16:24:32 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:38 ] RUN_FULL END ====
+Summary: single | energy: -58.62950841 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162432480382_8
+
+
+==== [ 2026-04-14 16:24:38 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:40 ] RUN_FULL END ====
+Summary: single | energy: -58.62942486 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162438037494_8
+
+
+==== [ 2026-04-14 16:24:40 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:40 ] RUN_FULL END ====
+Summary: single | energy: -95.09509268 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162440141674_8
+
+
+==== [ 2026-04-14 16:24:40 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:40 ] RUN_FULL END ====
+Summary: single | energy: -95.09509268 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162440233856_8
+
+
+==== [ 2026-04-14 16:24:40 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:40 ] RUN_FULL END ====
+Summary: single | energy: -95.09509268 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162440306136_8
+
+
+==== [ 2026-04-14 16:24:40 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:42 ] RUN_FULL END ====
+Summary: single | energy: -44.19650299 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162440363087_8
+
+
+==== [ 2026-04-14 16:24:42 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:44 ] RUN_FULL END ====
+Summary: single | energy: -44.17020784 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162442511511_8
+
+
+==== [ 2026-04-14 16:24:44 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:46 ] RUN_FULL END ====
+Summary: single | energy: -44.26244130 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162444547166_8
+
+
+==== [ 2026-04-14 16:24:46 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:48 ] RUN_FULL END ====
+Summary: single | energy: -58.66038941 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162446667778_8
+
+
+==== [ 2026-04-14 16:24:48 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:50 ] RUN_FULL END ====
+Summary: single | energy: -58.66336622 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162448848659_8
+
+
+==== [ 2026-04-14 16:24:50 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:52 ] RUN_FULL END ====
+Summary: single | energy: -58.59998182 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162450868950_8
+
+
+==== [ 2026-04-14 16:24:52 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:53 ] RUN_FULL END ====
+Summary: single | energy: -95.24572857 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162452997287_8
+
+
+==== [ 2026-04-14 16:24:53 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:53 ] RUN_FULL END ====
+Summary: single | energy: -95.24572857 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162453060828_8
+
+
+==== [ 2026-04-14 16:24:53 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:53 ] RUN_FULL END ====
+Summary: single | energy: -95.24572857 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162453144137_8
+
+
+==== [ 2026-04-14 16:24:53 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:55 ] RUN_FULL END ====
+Summary: single | energy: -44.09327023 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162453234698_8
+
+
+==== [ 2026-04-14 16:24:55 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:57 ] RUN_FULL END ====
+Summary: single | energy: -44.18473885 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162455484010_8
+
+
+==== [ 2026-04-14 16:24:57 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:24:59 ] RUN_FULL END ====
+Summary: single | energy: -44.07689158 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162457720692_8
+
+
+==== [ 2026-04-14 16:24:59 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:01 ] RUN_FULL END ====
+Summary: single | energy: -58.83231766 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162459701195_8
+
+
+==== [ 2026-04-14 16:25:01 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:03 ] RUN_FULL END ====
+Summary: single | energy: -58.81557246 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162501783057_8
+
+
+==== [ 2026-04-14 16:25:03 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:05 ] RUN_FULL END ====
+Summary: single | energy: -58.82167209 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162503849880_8
+
+
+==== [ 2026-04-14 16:25:06 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:06 ] RUN_FULL END ====
+Summary: single | energy: -95.15609531 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162506024610_8
+
+
+==== [ 2026-04-14 16:25:06 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:06 ] RUN_FULL END ====
+Summary: single | energy: -95.15609531 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162506083468_8
+
+
+==== [ 2026-04-14 16:25:06 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:06 ] RUN_FULL END ====
+Summary: single | energy: -95.15609531 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162506160650_8
+
+
+==== [ 2026-04-14 16:25:06 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:11 ] RUN_FULL END ====
+Summary: single | energy: -44.15611816 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162506230543_8
+
+
+==== [ 2026-04-14 16:25:12 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:13 ] RUN_FULL END ====
+Summary: single | energy: -44.23489941 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162512014381_8
+
+
+==== [ 2026-04-14 16:25:13 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:15 ] RUN_FULL END ====
+Summary: single | energy: -44.24631516 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162513964385_8
+
+
+==== [ 2026-04-14 16:25:15 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:17 ] RUN_FULL END ====
+Summary: single | energy: -58.63827004 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162515833096_8
+
+
+==== [ 2026-04-14 16:25:17 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:20 ] RUN_FULL END ====
+Summary: single | energy: -58.67244923 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162517845362_8
+
+
+==== [ 2026-04-14 16:25:20 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:22 ] RUN_FULL END ====
+Summary: single | energy: -58.61901680 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162520696281_8
+
+
+==== [ 2026-04-14 16:25:22 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:22 ] RUN_FULL END ====
+Summary: single | energy: -95.12266184 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162522881025_8
+
+
+==== [ 2026-04-14 16:25:22 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:23 ] RUN_FULL END ====
+Summary: single | energy: -95.12266184 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162523000767_8
+
+
+==== [ 2026-04-14 16:25:23 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:23 ] RUN_FULL END ====
+Summary: single | energy: -95.12266184 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162523076650_8
+
+
+==== [ 2026-04-14 16:25:23 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:25 ] RUN_FULL END ====
+Summary: single | energy: -43.98422110 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162523157300_8
+
+
+==== [ 2026-04-14 16:25:25 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:27 ] RUN_FULL END ====
+Summary: single | energy: -44.05354250 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162525236588_8
+
+
+==== [ 2026-04-14 16:25:27 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:29 ] RUN_FULL END ====
+Summary: single | energy: -44.08112115 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162527285114_8
+
+
+==== [ 2026-04-14 16:25:29 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:31 ] RUN_FULL END ====
+Summary: single | energy: -58.83378387 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162529509518_8
+
+
+==== [ 2026-04-14 16:25:31 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:33 ] RUN_FULL END ====
+Summary: single | energy: -58.83243123 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162531600196_8
+
+
+==== [ 2026-04-14 16:25:33 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:36 ] RUN_FULL END ====
+Summary: single | energy: -58.86866818 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162533792682_8
+
+
+==== [ 2026-04-14 16:25:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:36 ] RUN_FULL END ====
+Summary: single | energy: -95.09200924 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162536105184_8
+
+
+==== [ 2026-04-14 16:25:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:36 ] RUN_FULL END ====
+Summary: single | energy: -95.09200924 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162536170538_8
+
+
+==== [ 2026-04-14 16:25:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:36 ] RUN_FULL END ====
+Summary: single | energy: -95.09200924 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162536234455_8
+
+
+==== [ 2026-04-14 16:25:36 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:38 ] RUN_FULL END ====
+Summary: single | energy: -44.13139855 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162536308149_8
+
+
+==== [ 2026-04-14 16:25:38 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:40 ] RUN_FULL END ====
+Summary: single | energy: -44.19109167 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162538408402_8
+
+
+==== [ 2026-04-14 16:25:40 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:42 ] RUN_FULL END ====
+Summary: single | energy: -44.12390159 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162540424745_8
+
+
+==== [ 2026-04-14 16:25:42 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:47 ] RUN_FULL END ====
+Summary: single | energy: -58.69189291 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162542392685_8
+
+
+==== [ 2026-04-14 16:25:48 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:50 ] RUN_FULL END ====
+Summary: single | energy: -58.76114102 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162548016959_8
+
+
+==== [ 2026-04-14 16:25:50 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:52 ] RUN_FULL END ====
+Summary: single | energy: -58.76248636 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162550098061_8
+
+
+==== [ 2026-04-14 16:25:52 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:52 ] RUN_FULL END ====
+Summary: single | energy: -95.11474357 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162552148294_8
+
+
+==== [ 2026-04-14 16:25:52 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:52 ] RUN_FULL END ====
+Summary: single | energy: -95.11474357 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162552245738_8
+
+
+==== [ 2026-04-14 16:25:52 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:52 ] RUN_FULL END ====
+Summary: single | energy: -95.11474357 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162552328759_8
+
+
+==== [ 2026-04-14 16:25:52 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:54 ] RUN_FULL END ====
+Summary: single | energy: -44.25412353 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162552398577_8
+
+
+==== [ 2026-04-14 16:25:54 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:56 ] RUN_FULL END ====
+Summary: single | energy: -44.31304344 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162554497236_8
+
+
+==== [ 2026-04-14 16:25:56 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:25:58 ] RUN_FULL END ====
+Summary: single | energy: -44.34984238 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162556894557_8
+
+
+==== [ 2026-04-14 16:25:58 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:01 ] RUN_FULL END ====
+Summary: single | energy: -58.53861692 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162558873702_8
+
+
+==== [ 2026-04-14 16:26:01 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:03 ] RUN_FULL END ====
+Summary: single | energy: -58.49053959 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162601053921_8
+
+
+==== [ 2026-04-14 16:26:03 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:05 ] RUN_FULL END ====
+Summary: single | energy: -58.52563541 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162603126465_8
+
+
+==== [ 2026-04-14 16:26:05 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:05 ] RUN_FULL END ====
+Summary: single | energy: -95.13756547 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162605137657_8
+
+
+==== [ 2026-04-14 16:26:05 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:05 ] RUN_FULL END ====
+Summary: single | energy: -95.13756547 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162605210551_8
+
+
+==== [ 2026-04-14 16:26:05 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:05 ] RUN_FULL END ====
+Summary: single | energy: -95.13756547 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162605277623_8
+
+
+==== [ 2026-04-14 16:26:05 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:07 ] RUN_FULL END ====
+Summary: single | energy: -44.32241534 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162605361424_8
+
+
+==== [ 2026-04-14 16:26:07 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:10 ] RUN_FULL END ====
+Summary: single | energy: -44.40358633 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162607655711_8
+
+
+==== [ 2026-04-14 16:26:10 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:12 ] RUN_FULL END ====
+Summary: single | energy: -44.36006978 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162610067075_8
+
+
+==== [ 2026-04-14 16:26:12 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:14 ] RUN_FULL END ====
+Summary: single | energy: -58.48310890 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162612283087_8
+
+
+==== [ 2026-04-14 16:26:14 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:16 ] RUN_FULL END ====
+Summary: single | energy: -58.52472071 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162614462260_8
+
+
+==== [ 2026-04-14 16:26:16 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:18 ] RUN_FULL END ====
+Summary: single | energy: -58.52894505 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162616997850_8
+
+
+==== [ 2026-04-14 16:26:18 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:18 ] RUN_FULL END ====
+Summary: single | energy: -95.20585059 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162618907576_8
+
+
+==== [ 2026-04-14 16:26:19 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:19 ] RUN_FULL END ====
+Summary: single | energy: -95.20585059 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162619006417_8
+
+
+==== [ 2026-04-14 16:26:19 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:19 ] RUN_FULL END ====
+Summary: single | energy: -95.20585059 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162619087370_8
+
+
+==== [ 2026-04-14 16:26:19 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:24 ] RUN_FULL END ====
+Summary: single | energy: -44.33000481 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162619182462_8
+
+
+==== [ 2026-04-14 16:26:24 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:27 ] RUN_FULL END ====
+Summary: single | energy: -44.28606725 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162624885107_8
+
+
+==== [ 2026-04-14 16:26:27 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:29 ] RUN_FULL END ====
+Summary: single | energy: -44.34845388 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162627141316_8
+
+
+==== [ 2026-04-14 16:26:29 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:31 ] RUN_FULL END ====
+Summary: single | energy: -58.42691087 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162629495800_8
+
+
+==== [ 2026-04-14 16:26:31 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:33 ] RUN_FULL END ====
+Summary: single | energy: -58.45788800 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162631654964_8
+
+
+==== [ 2026-04-14 16:26:33 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:35 ] RUN_FULL END ====
+Summary: single | energy: -58.34857463 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162633932199_8
+
+
+==== [ 2026-04-14 16:26:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:36 ] RUN_FULL END ====
+Summary: single | energy: -95.04738587 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162636029032_8
+
+
+==== [ 2026-04-14 16:26:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:36 ] RUN_FULL END ====
+Summary: single | energy: -95.04738587 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162636089290_8
+
+
+==== [ 2026-04-14 16:26:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:36 ] RUN_FULL END ====
+Summary: single | energy: -95.04738587 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162636170970_8
+
+
+==== [ 2026-04-14 16:26:36 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:38 ] RUN_FULL END ====
+Summary: single | energy: -44.20646854 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162636233118_8
+
+
+==== [ 2026-04-14 16:26:38 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:40 ] RUN_FULL END ====
+Summary: single | energy: -44.21646382 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162638347042_8
+
+
+==== [ 2026-04-14 16:26:40 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:42 ] RUN_FULL END ====
+Summary: single | energy: -44.20761868 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162640409720_8
+
+
+==== [ 2026-04-14 16:26:42 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:45 ] RUN_FULL END ====
+Summary: single | energy: -58.53767988 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162642886287_8
+
+
+==== [ 2026-04-14 16:26:45 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:47 ] RUN_FULL END ====
+Summary: single | energy: -58.52601110 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162645093793_8
+
+
+==== [ 2026-04-14 16:26:47 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:49 ] RUN_FULL END ====
+Summary: single | energy: -58.50648979 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162647166647_8
+
+
+==== [ 2026-04-14 16:26:49 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:49 ] RUN_FULL END ====
+Summary: single | energy: -94.94704446 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162649220363_8
+
+
+==== [ 2026-04-14 16:26:49 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:49 ] RUN_FULL END ====
+Summary: single | energy: -94.94704446 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162649332182_8
+
+
+==== [ 2026-04-14 16:26:49 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:49 ] RUN_FULL END ====
+Summary: single | energy: -94.94704446 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162649415626_8
+
+
+==== [ 2026-04-14 16:26:49 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:51 ] RUN_FULL END ====
+Summary: single | energy: -44.21088939 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162649479966_8
+
+
+==== [ 2026-04-14 16:26:51 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:53 ] RUN_FULL END ====
+Summary: single | energy: -44.21801404 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162651498389_8
+
+
+==== [ 2026-04-14 16:26:53 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:26:55 ] RUN_FULL END ====
+Summary: single | energy: -44.13896430 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162653782805_8
+
+
+==== [ 2026-04-14 16:26:59 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:01 ] RUN_FULL END ====
+Summary: single | energy: -58.68847242 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162659503449_8
+
+
+==== [ 2026-04-14 16:27:01 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:03 ] RUN_FULL END ====
+Summary: single | energy: -58.67457998 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162701491233_8
+
+
+==== [ 2026-04-14 16:27:03 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:05 ] RUN_FULL END ====
+Summary: single | energy: -58.67865950 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162703511442_8
+
+
+==== [ 2026-04-14 16:27:05 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:05 ] RUN_FULL END ====
+Summary: single | energy: -95.05791028 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162705429766_8
+
+
+==== [ 2026-04-14 16:27:05 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:05 ] RUN_FULL END ====
+Summary: single | energy: -95.05791028 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162705501303_8
+
+
+==== [ 2026-04-14 16:27:05 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:05 ] RUN_FULL END ====
+Summary: single | energy: -95.05791028 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162705601148_8
+
+
+==== [ 2026-04-14 16:27:05 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:07 ] RUN_FULL END ====
+Summary: single | energy: -44.13456715 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162705668896_8
+
+
+==== [ 2026-04-14 16:27:07 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:09 ] RUN_FULL END ====
+Summary: single | energy: -44.05652770 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162707926589_8
+
+
+==== [ 2026-04-14 16:27:09 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:12 ] RUN_FULL END ====
+Summary: single | energy: -44.17391258 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162709964628_8
+
+
+==== [ 2026-04-14 16:27:12 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:14 ] RUN_FULL END ====
+Summary: single | energy: -58.75286999 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162712134798_8
+
+
+==== [ 2026-04-14 16:27:14 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:16 ] RUN_FULL END ====
+Summary: single | energy: -58.67807264 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162714538754_8
+
+
+==== [ 2026-04-14 16:27:16 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:19 ] RUN_FULL END ====
+Summary: single | energy: -58.72102571 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162716593665_8
+
+
+==== [ 2026-04-14 16:27:19 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:19 ] RUN_FULL END ====
+Summary: single | energy: -95.07382366 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162719254644_8
+
+
+==== [ 2026-04-14 16:27:19 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:19 ] RUN_FULL END ====
+Summary: single | energy: -95.07382366 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162719325752_8
+
+
+==== [ 2026-04-14 16:27:19 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:19 ] RUN_FULL END ====
+Summary: single | energy: -95.07382366 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162719411042_8
+
+
+==== [ 2026-04-14 16:27:19 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:21 ] RUN_FULL END ====
+Summary: single | energy: -44.00716162 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162719470595_8
+
+
+==== [ 2026-04-14 16:27:21 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:23 ] RUN_FULL END ====
+Summary: single | energy: -43.97152803 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162721838099_8
+
+
+==== [ 2026-04-14 16:27:23 ] RUN_FULL START ====
+System: FCIDUMP_17e_15o | electrons: 17 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:25 ] RUN_FULL END ====
+Summary: single | energy: -44.01223483 | kept_dir: trimci_single_run_results/FCIDUMP_17e_15o_20260414_162723890157_8
+
+
+==== [ 2026-04-14 16:27:26 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:28 ] RUN_FULL END ====
+Summary: single | energy: -58.78824478 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162726002524_8
+
+
+==== [ 2026-04-14 16:27:28 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:30 ] RUN_FULL END ====
+Summary: single | energy: -58.81120700 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162728251351_8
+
+
+==== [ 2026-04-14 16:27:30 ] RUN_FULL START ====
+System: FCIDUMP_22e_15o | electrons: 22 | orbitals: 15 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:36 ] RUN_FULL END ====
+Summary: single | energy: -58.80832616 | kept_dir: trimci_single_run_results/FCIDUMP_22e_15o_20260414_162730429960_8
+
+
+==== [ 2026-04-14 16:27:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:36 ] RUN_FULL END ====
+Summary: single | energy: -94.95766990 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162736130936_8
+
+
+==== [ 2026-04-14 16:27:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:36 ] RUN_FULL END ====
+Summary: single | energy: -94.95766990 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162736206894_8
+
+
+==== [ 2026-04-14 16:27:36 ] RUN_FULL START ====
+System: FCIDUMP_31e_16o | electrons: 31 | orbitals: 16 | num_runs: 1 | max_final_dets: 200
+==== [ 2026-04-14 16:27:36 ] RUN_FULL END ====
+Summary: single | energy: -94.95766990 | kept_dir: trimci_single_run_results/FCIDUMP_31e_16o_20260414_162736289504_8
+

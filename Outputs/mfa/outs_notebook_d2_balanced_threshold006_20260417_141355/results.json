@@ -1,0 +1,124 @@
+{
+  "status": "SUCCESS",
+  "timestamp": "2026-04-17 14:15:20",
+  "runtime_sec": 8.111108,
+  "method": "MFA-TrimCI",
+  "phase": "D2",
+  "partition": "nonoverlapping_12_12_12_balanced_refdet_roundrobin",
+  "partition_mode": "balanced",
+  "gamma_source": "/home/unfunnypanda/Proj_Flow/TrimCI_Flow/Outputs/meanfield_active/outs_extraction_autodets/gamma_mixed_final.npy",
+  "gamma_shape": [
+    36,
+    36
+  ],
+  "gamma_load_mode": "diagonal_vector_promoted_to_matrix",
+  "ref_dets_source": "/home/unfunnypanda/Proj_Flow/Fe4S4_251230orbital_-327.1920_10kdets/Fe4S4_251230orbital_-327.1920_10kdets/dets.npz",
+  "ref_dets_row": 0,
+  "trimci_config": {
+    "threshold": 0.06,
+    "max_final_dets": "auto",
+    "max_rounds": 2,
+    "num_runs": 1,
+    "pool_build_strategy": "heat_bath",
+    "verbose": false
+  },
+  "git_commit": null,
+  "E_nuc": 0.0,
+  "E_nuc_included": true,
+  "energy_status": "correlation_corrected_nonoverlapping_total",
+  "E_mf_global_elec": -323.0804029196968,
+  "E_mf_global": -323.0804029196968,
+  "E_total": -326.40537050070174,
+  "error_vs_reference": 0.7866294992982716,
+  "reference_energy": -327.192,
+  "E_dmet_1shot_b": -258.957062,
+  "E_total_minus_dmet_1shot_b": -67.44830850070173,
+  "electron_count_check": {
+    "sum_n_alpha": 27,
+    "sum_n_beta": 27,
+    "passed": true
+  },
+  "fragment_n_dets": [
+    73,
+    73,
+    73
+  ],
+  "total_dets": 219,
+  "brute_force_dets": 10095,
+  "fragment_orbs": [
+    [
+      3,
+      5,
+      7,
+      10,
+      17,
+      18,
+      21,
+      23,
+      26,
+      29,
+      34,
+      35
+    ],
+    [
+      1,
+      8,
+      9,
+      11,
+      14,
+      16,
+      20,
+      22,
+      24,
+      27,
+      31,
+      33
+    ],
+    [
+      0,
+      2,
+      4,
+      6,
+      12,
+      13,
+      15,
+      19,
+      25,
+      28,
+      30,
+      32
+    ]
+  ],
+  "fragment_n_alpha": [
+    9,
+    9,
+    9
+  ],
+  "fragment_n_beta": [
+    10,
+    9,
+    8
+  ],
+  "per_fragment_E_trimci": [
+    -41.81295341033974,
+    -37.63151879623267,
+    -38.001979932368656
+  ],
+  "per_fragment_E_mf_embedded": [
+    -40.76500393517321,
+    -36.46696796063196,
+    -36.889512662130926
+  ],
+  "per_fragment_E_corr": [
+    -1.0479494751665257,
+    -1.164550835600707,
+    -1.1124672702377296
+  ],
+  "E_mf_row_partition_by_frag_elec": [
+    -112.44235528950585,
+    -104.82079938284964,
+    -105.81724824734127
+  ],
+  "E_mf_row_partition_sum_elec": -323.0804029196968,
+  "E_mf_row_partition_sum_matches_global_elec": true
+}

@@ -1,0 +1,201 @@
+{
+  "final_energy": -95.87680223224737,
+  "n_dets": 16,
+  "config": {
+    "threshold": 0.03,
+    "local_trim_keep_ratio": 0.1,
+    "verbose": false,
+    "initial_pool_size": 100,
+    "core_set_ratio": 1.02,
+    "pool_core_ratio": 20,
+    "max_final_dets": 16,
+    "max_rounds": 2,
+    "pool_build_strategy": "heat_bath",
+    "num_groups": 10,
+    "load_initial_dets": false,
+    "num_runs": 1,
+    "first_cycle_keep_size": 10,
+    "psym": 8,
+    "fcidump_path": "/tmp/tmp832pt3oy.fcidump",
+    "nuclear_repulsion": 0.0
+  },
+  "iteration_summary": {
+    "iterations": [
+      {
+        "iteration": 1,
+        "core_set_size_before": 1,
+        "target_pool_size": 16,
+        "actual_pool_size": 16,
+        "final_threshold": 0.004052555153018977,
+        "pool_building_time": 0.00882036,
+        "trim_m": 10,
+        "trim_k": 1,
+        "raw_dets_count": 10,
+        "raw_energy": -95.87553901439148,
+        "energy_change": 0.0,
+        "converged": false,
+        "core_set_size_after": 10,
+        "iteration_time": 0.00909261,
+        "cumulative_time": 0.01450809
+      },
+      {
+        "iteration": 2,
+        "core_set_size_before": 10,
+        "target_pool_size": 16,
+        "actual_pool_size": 16,
+        "final_threshold": 0.009414317882700002,
+        "pool_building_time": 0.00035865,
+        "trim_m": 10,
+        "trim_k": 1,
+        "raw_dets_count": 16,
+        "raw_energy": -95.87680212932868,
+        "energy_change": -0.0012631149372026584,
+        "converged": false,
+        "core_set_size_after": 11,
+        "iteration_time": 0.00066114,
+        "cumulative_time": 0.01517445
+      },
+      {
+        "iteration": 3,
+        "core_set_size_before": 11,
+        "target_pool_size": 16,
+        "actual_pool_size": 16,
+        "final_threshold": 0.001413038609173874,
+        "pool_building_time": 0.00125649,
+        "trim_m": 10,
+        "trim_k": 1,
+        "raw_dets_count": 16,
+        "raw_energy": -95.8768018268911,
+        "energy_change": 3.0243758430970047e-07,
+        "converged": false,
+        "core_set_size_after": 12,
+        "iteration_time": 0.00160686,
+        "cumulative_time": 0.01678554
+      },
+      {
+        "iteration": 4,
+        "core_set_size_before": 12,
+        "target_pool_size": 16,
+        "actual_pool_size": 16,
+        "final_threshold": 0.001413038609173874,
+        "pool_building_time": 9.135e-05,
+        "trim_m": 10,
+        "trim_k": 1,
+        "raw_dets_count": 15,
+        "raw_energy": -95.87680193198376,
+        "energy_change": -1.0509266701319575e-07,
+        "converged": false,
+        "core_set_size_after": 13,
+        "iteration_time": 0.0003978,
+        "cumulative_time": 0.01718784
+      },
+      {
+        "iteration": 5,
+        "core_set_size_before": 13,
+        "target_pool_size": 16,
+        "actual_pool_size": 16,
+        "final_threshold": 0.001413038609173874,
+        "pool_building_time": 7.506e-05,
+        "trim_m": 10,
+        "trim_k": 1,
+        "raw_dets_count": 16,
+        "raw_energy": -95.87680172135296,
+        "energy_change": 2.1063080168914894e-07,
+        "converged": false,
+        "core_set_size_after": 14,
+        "iteration_time": 0.00042948,
+        "cumulative_time": 0.01762128
+      },
+      {
+        "iteration": 6,
+        "core_set_size_before": 14,
+        "target_pool_size": 16,
+        "actual_pool_size": 16,
+        "final_threshold": 0.001413038609173874,
+        "pool_building_time": 0.00010719,
+        "trim_m": 10,
+        "trim_k": 1,
+        "raw_dets_count": 16,
+        "raw_energy": -95.87680211858124,
+        "energy_change": -3.972282769382218e-07,
+        "converged": false,
+        "core_set_size_after": 15,
+        "iteration_time": 0.00240534,
+        "cumulative_time": 0.02003166
+      },
+      {
+        "iteration": 7,
+        "core_set_size_before": 15,
+        "target_pool_size": 16,
+        "actual_pool_size": 16,
+        "final_threshold": 0.001413038609173874,
+        "pool_building_time": 9.162e-05,
+        "trim_m": 10,
+        "trim_k": 1,
+        "raw_dets_count": 16,
+        "raw_energy": -95.87680220747319,
+        "energy_change": -8.88919515773523e-08,
+        "converged": false,
+        "core_set_size_after": 16,
+        "iteration_time": 0.00046386,
+        "cumulative_time": 0.02049975
+      }
+    ],
+    "total_time": 0.02057697,
+    "final_energy": -95.87680223224737,
+    "final_core_energy": -95.87680223224737,
+    "final_core_dets_count": 16,
+    "final_raw_energy": -95.87680223224737,
+    "final_raw_dets_count": 16,
+    "final_electronic_energy": -95.87680223224737,
+    "final_dets_count": 16,
+    "converged": false,
+    "total_iterations": 7,
+    "n_electrons": 31,
+    "n_orbitals": 16,
+    "nuclear_repulsion": 0.0,
+    "results_dir": "trimci_single_run_results/FCIDUMP_31e_16o_20260414_161304883328_8"
+  },
+  "top_10_determinants": [
+    [
+      0.9562363452157678,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 0 1 2 4 5 6 7 8 9 10 11 12 13 14 15"
+    ],
+    [
+      -0.24679817083698288,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 0 1 2 3 5 6 7 8 9 10 11 12 13 14 15"
+    ],
+    [
+      0.11853425129669305,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 0 1 2 3 4 6 7 8 9 10 11 12 13 14 15"
+    ],
+    [
+      0.07033469380495914,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15"
+    ],
+    [
+      0.04106139933899079,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 0 1 2 3 4 5 6 7 8 9 10 11 13 14 15"
+    ],
+    [
+      -0.033398786683274104,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 0 1 2 3 4 5 6 7 8 9 11 12 13 14 15"
+    ],
+    [
+      0.028855280929530533,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15"
+    ],
+    [
+      0.02433432300981835,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 0 1 2 3 4 5 6 7 8 9 10 11 12 14 15"
+    ],
+    [
+      -0.023228946371478456,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 0 1 2 3 4 5 7 8 9 10 11 12 13 14 15"
+    ],
+    [
+      0.02223998790104734,
+      "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 , 0 1 2 3 4 5 6 7 9 10 11 12 13 14 15"
+    ]
+  ]
+}

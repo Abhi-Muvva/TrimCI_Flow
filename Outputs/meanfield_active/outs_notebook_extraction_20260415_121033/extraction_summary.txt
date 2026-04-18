@@ -1,0 +1,15 @@
+Phase B Meanfield Notebook Extraction Summary
+==============================================
+SCF converged: True
+SCF iterations: 19
+SCF final max|Delta E|: 4.917251e-02 Ha
+SCF final max|Delta gamma|: 6.964793e-03
+
+Extraction determinant counts:
+  Fragment 0: n_dets=51, energy=-45.09561107 Ha
+  Fragment 1: n_dets=51, energy=-60.91713695 Ha
+  Fragment 2: n_dets=16, energy=-93.95734865 Ha
+  Total extraction dets: 118
+  Uncoupled baseline dets: 118
+  Delta vs uncoupled: +0
+  Verdict: Meanfield is neutral: same determinant count as uncoupled

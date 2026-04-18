@@ -1,0 +1,87 @@
+{
+  "run_type": "Phase_B_v6_conservative_anderson_avg5",
+  "timestamp": "2026-04-15T00:27:13.560296",
+  "fcidump": "/home/unfunnypanda/Proj_Flow/Fe4S4_251230orbital_-327.1920_10kdets/Fe4S4_251230orbital_-327.1920_10kdets/fcidump_cycle_6",
+  "window_size": 15,
+  "stride": 10,
+  "max_iterations": 60,
+  "convergence": 1e-06,
+  "rdm_convergence": 0.0001,
+  "damping": 0.1,
+  "anderson_beta": 0.1,
+  "anderson_m": 5,
+  "anderson_reg": 0.01,
+  "fallback_threshold": 0.05,
+  "n_gamma_avg": 5,
+  "trimci_config": {
+    "threshold": 0.03,
+    "max_final_dets": 200,
+    "max_rounds": 2,
+    "num_runs": 1,
+    "pool_build_strategy": "heat_bath",
+    "verbose": false
+  },
+  "converged": false,
+  "iterations_performed": 61,
+  "total_dets_final": 416,
+  "fragment_n_dets_final": [
+    200,
+    200,
+    16
+  ],
+  "fragment_energies_final": [
+    -44.67455606076443,
+    -59.54779574421793,
+    -94.14656678941348
+  ],
+  "convergence_delta": 0.04488660444135206,
+  "convergence_delta_rdm": 0.005003818631733048,
+  "bare_reference": {
+    "energies": [
+      -187.8264928459449,
+      -219.91500421206803,
+      -247.6589841523238
+    ],
+    "n_dets": [
+      200,
+      200,
+      16
+    ]
+  },
+  "late_stats_40_60": {
+    "delta_rdm_min": 0.0026589328878503515,
+    "delta_rdm_median": 0.00942805118443979,
+    "delta_rdm_max": 0.03150441097352141,
+    "delta_E_min": 0.012568265965981595,
+    "delta_E_median": 0.04916998364291203,
+    "delta_E_max": 0.20640475885051046
+  },
+  "late_stats_50_60": {
+    "delta_rdm_min": 0.005003818631733048,
+    "delta_rdm_median": 0.009962825444520651,
+    "delta_rdm_max": 0.01924048368775544,
+    "delta_E_min": 0.012568265965981595,
+    "delta_E_median": 0.039976914512379835,
+    "delta_E_max": 0.11529039973950717
+  },
+  "threshold_dgamma": {
+    "0.05": {
+      "count": 53,
+      "first_iter": 6
+    },
+    "0.02": {
+      "count": 41,
+      "first_iter": 6
+    },
+    "0.01": {
+      "count": 21,
+      "first_iter": 8
+    },
+    "0.005": {
+      "count": 4,
+      "first_iter": 8
+    }
+  },
+  "anderson_count": 53,
+  "linear_or_fallback_count": 8
+}

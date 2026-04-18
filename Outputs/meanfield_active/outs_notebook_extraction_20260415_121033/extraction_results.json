@@ -1,0 +1,94 @@
+{
+  "trimci_config": {
+    "threshold": 0.06,
+    "max_final_dets": "auto",
+    "max_rounds": 2,
+    "num_runs": 1,
+    "pool_build_strategy": "heat_bath",
+    "verbose": false
+  },
+  "fragment_results": [
+    {
+      "fragment": 0,
+      "orbs": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        10,
+        11,
+        21,
+        24,
+        25,
+        26,
+        27,
+        29,
+        32,
+        33
+      ],
+      "n_alpha": 8,
+      "n_beta": 9,
+      "energy": -45.095611069964335,
+      "n_dets": 51
+    },
+    {
+      "fragment": 1,
+      "orbs": [
+        4,
+        5,
+        7,
+        9,
+        10,
+        12,
+        13,
+        20,
+        21,
+        22,
+        23,
+        28,
+        31,
+        32,
+        33
+      ],
+      "n_alpha": 11,
+      "n_beta": 11,
+      "energy": -60.91713695098239,
+      "n_dets": 51
+    },
+    {
+      "fragment": 2,
+      "orbs": [
+        0,
+        1,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        30,
+        34,
+        35
+      ],
+      "n_alpha": 16,
+      "n_beta": 15,
+      "energy": -93.95734865265611,
+      "n_dets": 16
+    }
+  ],
+  "fragment_n_dets": [
+    51,
+    51,
+    16
+  ],
+  "total_dets": 118,
+  "uncoupled_baseline_total_dets": 118,
+  "delta_vs_uncoupled": 0,
+  "verdict": "Meanfield is neutral: same determinant count as uncoupled"
+}

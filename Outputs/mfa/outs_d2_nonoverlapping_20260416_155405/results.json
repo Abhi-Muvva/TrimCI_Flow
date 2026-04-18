@@ -1,0 +1,123 @@
+{
+  "status": "SUCCESS",
+  "timestamp": "2026-04-16 15:54:05",
+  "runtime_sec": 32.229718,
+  "method": "MFA-TrimCI",
+  "phase": "D2",
+  "partition": "nonoverlapping_12_12_12",
+  "gamma_source": "/home/unfunnypanda/Proj_Flow/TrimCI_Flow/Outputs/meanfield_active/outs_extraction_autodets/gamma_mixed_final.npy",
+  "gamma_shape": [
+    36,
+    36
+  ],
+  "gamma_load_mode": "diagonal_vector_promoted_to_matrix",
+  "ref_dets_source": "/home/unfunnypanda/Proj_Flow/Fe4S4_251230orbital_-327.1920_10kdets/Fe4S4_251230orbital_-327.1920_10kdets/dets.npz",
+  "ref_dets_row": 0,
+  "trimci_config": {
+    "threshold": 0.02,
+    "max_final_dets": 500,
+    "max_rounds": 2,
+    "num_runs": 1,
+    "pool_build_strategy": "heat_bath",
+    "verbose": false
+  },
+  "git_commit": null,
+  "E_nuc": 0.0,
+  "E_nuc_included": true,
+  "energy_status": "correlation_corrected_nonoverlapping_total",
+  "E_mf_global_elec": -323.0804029196968,
+  "E_mf_global": -323.0804029196968,
+  "E_total": -326.544567419447,
+  "error_vs_reference": 0.6474325805530157,
+  "reference_energy": -327.192,
+  "E_dmet_1shot_b": -258.957062,
+  "E_total_minus_dmet_1shot_b": -67.58750541944698,
+  "electron_count_check": {
+    "sum_n_alpha": 27,
+    "sum_n_beta": 27,
+    "passed": true
+  },
+  "fragment_n_dets": [
+    502,
+    502,
+    1
+  ],
+  "total_dets": 1005,
+  "brute_force_dets": 10095,
+  "fragment_orbs": [
+    [
+      2,
+      3,
+      6,
+      7,
+      8,
+      11,
+      24,
+      25,
+      26,
+      27,
+      29,
+      32
+    ],
+    [
+      4,
+      5,
+      9,
+      10,
+      12,
+      13,
+      20,
+      21,
+      23,
+      28,
+      31,
+      33
+    ],
+    [
+      0,
+      1,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      22,
+      30,
+      34,
+      35
+    ]
+  ],
+  "fragment_n_alpha": [
+    6,
+    9,
+    12
+  ],
+  "fragment_n_beta": [
+    6,
+    9,
+    12
+  ],
+  "per_fragment_E_trimci": [
+    -27.99747456264352,
+    -39.19513470428932,
+    -54.96858631636151
+  ],
+  "per_fragment_E_mf_embedded": [
+    -25.802172622039492,
+    -38.02124271441029,
+    -54.87361574709436
+  ],
+  "per_fragment_E_corr": [
+    -2.195301940604029,
+    -1.1738919898790314,
+    -0.0949705692671472
+  ],
+  "E_mf_row_partition_by_frag_elec": [
+    -87.2498078298609,
+    -108.7057638390981,
+    -127.12483125073777
+  ],
+  "E_mf_row_partition_sum_elec": -323.0804029196968,
+  "E_mf_row_partition_sum_matches_global_elec": true
+}

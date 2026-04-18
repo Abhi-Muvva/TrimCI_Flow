@@ -1,0 +1,25 @@
+Phase B v6 Extraction Summary
+=============================
+SCF converged: True
+SCF iterations: 34
+SCF final max|Delta E|: 1.771673e-02 Ha
+SCF final max|Delta gamma|: 2.810973e-03
+
+Extraction config:
+{
+  "threshold": 0.06,
+  "max_final_dets": "auto",
+  "max_rounds": 2,
+  "num_runs": 1,
+  "pool_build_strategy": "heat_bath",
+  "verbose": false
+}
+
+Extraction determinant counts:
+  Fragment 0: n_dets=51, energy=-44.70801731 Ha
+  Fragment 1: n_dets=51, energy=-59.27206316 Ha
+  Fragment 2: n_dets=16, energy=-94.49892323 Ha
+  Total extraction dets: 118
+  Phase C baseline dets: 118
+  Delta vs Phase C: +0
+  Verdict: Phase B is neutral: same determinant count as Phase C

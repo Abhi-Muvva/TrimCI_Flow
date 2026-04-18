@@ -1,0 +1,100 @@
+{
+  "timestamp": "20260417_002006",
+  "fcidump": "/home/unfunnypanda/Proj_Flow/Fe4S4_251230orbital_-327.1920_10kdets/Fe4S4_251230orbital_-327.1920_10kdets/fcidump_cycle_6",
+  "gamma_diag_source": "/home/unfunnypanda/Proj_Flow/TrimCI_Flow/Outputs/meanfield_active/outs_extraction_autodets/gamma_mixed_final.npy",
+  "n_orb": 36,
+  "n_elec": 54,
+  "extraction_config": {
+    "threshold": 0.06,
+    "max_final_dets": "auto",
+    "max_rounds": 2,
+    "num_runs": 1,
+    "pool_build_strategy": "heat_bath",
+    "verbose": false
+  },
+  "fragments": [
+    {
+      "fragment": 0,
+      "orbs": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        10,
+        11,
+        21,
+        24,
+        25,
+        26,
+        27,
+        29,
+        32,
+        33
+      ],
+      "n_alpha": 8,
+      "n_beta": 9,
+      "n_dets": 51,
+      "rdm1_trace": 17.000000000000018,
+      "rdm1_max_offdiag": 0.10317491898559077
+    },
+    {
+      "fragment": 1,
+      "orbs": [
+        4,
+        5,
+        7,
+        9,
+        10,
+        12,
+        13,
+        20,
+        21,
+        22,
+        23,
+        28,
+        31,
+        32,
+        33
+      ],
+      "n_alpha": 11,
+      "n_beta": 11,
+      "n_dets": 51,
+      "rdm1_trace": 22.000000000000032,
+      "rdm1_max_offdiag": 0.35678020008389966
+    },
+    {
+      "fragment": 2,
+      "orbs": [
+        0,
+        1,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        30,
+        34,
+        35
+      ],
+      "n_alpha": 16,
+      "n_beta": 15,
+      "n_dets": 16,
+      "rdm1_trace": 31.00000000000006,
+      "rdm1_max_offdiag": 0.05996426634412075
+    }
+  ],
+  "diagnostics": {
+    "diagonal_vs_phase_b_max_diff": 0.7371199733019949,
+    "offdiag_max_abs": 0.35678020008389966,
+    "gamma_full_trace": 54.77725011804513,
+    "symmetric": true,
+    "nonzero_entries": 440
+  }
+}
