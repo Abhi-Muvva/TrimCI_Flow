@@ -1,7 +1,0 @@
-fragment_n_dets = [51, 51, 16]
-total_dets = 118
-brute_force_dets = 10095
-ratio = 0.0117
-savings_pct = 98.8%
-fragment_energies = [-187.72017466645465, -219.43879562565817, -247.65898415232343]
-regression_pass = True
