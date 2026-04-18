@@ -32,7 +32,7 @@ def _sym_h1(n, seed=1):
 def test_dressing_diagonal_gamma_matches_phase_b():
     """With diagonal gamma_mixed, dress_fragment_h1_mfa == dress_integrals_meanfield."""
     from TrimCI_Flow.mfa.solver import dress_fragment_h1_mfa
-    from TrimCI_Flow.meanfield.helpers import dress_integrals_meanfield
+    from TrimCI_Flow.mfa.helpers import dress_integrals_meanfield
     n_orb, n_frag = 6, 3
     frag_orbs = [0, 2, 4]
     ext_orbs  = sorted(set(range(n_orb)) - set(frag_orbs))

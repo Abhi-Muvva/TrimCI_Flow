@@ -1,7 +1,0 @@
-{
-  "converged": true,
-  "iterations": 34,
-  "convergence_delta": 0.017716727336491545,
-  "convergence_delta_rdm": 0.0028109734874794956,
-  "verdict": "SCF converged"
-}

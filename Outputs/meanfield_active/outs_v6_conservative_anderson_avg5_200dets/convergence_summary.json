@@ -1,7 +1,0 @@
-{
-  "converged": false,
-  "iterations": 61,
-  "convergence_delta": 0.04488660444135206,
-  "convergence_delta_rdm": 0.005003818631733048,
-  "verdict": "Hit max iterations without convergence"
-}

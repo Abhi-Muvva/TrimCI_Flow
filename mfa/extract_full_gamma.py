@@ -115,7 +115,7 @@ def extract_full_gamma(
         fragment_electron_count,
     )
     from TrimCI_Flow.core.trimci_adapter import solve_fragment_trimci
-    from TrimCI_Flow.meanfield.helpers import (
+    from TrimCI_Flow.mfa.helpers import (
         compute_fragment_rdm1,
         dress_integrals_meanfield,
     )
