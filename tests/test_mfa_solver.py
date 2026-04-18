@@ -3,6 +3,8 @@ tests/test_mfa_solver.py
 ========================
 Unit tests for TrimCI_Flow/mfa/solver.py helper functions (Phase D, Task 2).
 """
+import os
+from pathlib import Path
 import numpy as np
 import pytest
 
@@ -203,9 +205,8 @@ def test_electron_counts_sum_to_27_27():
     from TrimCI_Flow.core.fragment import fragment_electron_count
     import trimci
 
-    FCIDUMP  = ("/home/unfunnypanda/Proj_Flow/Fe4S4_251230orbital_-327.1920_10kdets/"
-                "Fe4S4_251230orbital_-327.1920_10kdets/fcidump_cycle_6")
-    DETS_NPZ = os.path.join(os.path.dirname(FCIDUMP), "dets.npz")
+    FCIDUMP  = str(Path(__file__).parent.parent / "data" / "fcidump_cycle_6")
+    DETS_NPZ = str(Path(__file__).parent.parent / "data" / "dets.npz")
     if not os.path.exists(FCIDUMP):
         pytest.skip("Fe4S4 data not available")
 

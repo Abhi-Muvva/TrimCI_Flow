@@ -209,10 +209,12 @@ python -m pytest TrimCI_Flow/tests/ -v
 
 | Item | Path |
 |------|------|
-| FCIDUMP | `Fe4S4_251230orbital_-327.1920_10kdets/.../fcidump_cycle_6` |
-| Reference dets | same dir, `dets.npz`, shape (10095, 2) uint64 |
+| FCIDUMP | `data/fcidump_cycle_6` (9.2 MB) |
+| Reference dets | `data/dets.npz`, shape (10095, 2) uint64 |
 | Diagonal gamma | `Outputs/mfa/outs_extract_full_gamma_*/gamma_mixed_diag.npy` |
 | Full gamma | same dir, `gamma_mixed_full.npy` |
+
+See `data/README.md` for full dataset documentation.
 
 **Critical gotchas:**
 - `E_nuc = 0.0` in this FCIDUMP — nuclear repulsion already absorbed. Do not add it.

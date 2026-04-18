@@ -14,17 +14,13 @@ from datetime import datetime
 sys.path.insert(0, os.path.abspath(
     os.path.join(os.path.dirname(__file__), '..', '..', '..')))
 
-_DATA_DIR = (
-    "/home/unfunnypanda/Proj_Flow/"
-    "Fe4S4_251230orbital_-327.1920_10kdets/"
-    "Fe4S4_251230orbital_-327.1920_10kdets"
-)
-_DEFAULT_FCIDUMP = os.path.join(_DATA_DIR, "fcidump_cycle_6")
-_DEFAULT_GAMMA = (
-    "/home/unfunnypanda/Proj_Flow/TrimCI_Flow/Outputs/"
-    "meanfield_active/outs_extraction_autodets/gamma_mixed_final.npy"
-)
-_DEFAULT_DETS = os.path.join(_DATA_DIR, "dets.npz")
+_HERE         = os.path.dirname(os.path.abspath(__file__))
+_DATA_DIR     = os.path.join(_HERE, '..', '..', 'data')
+_DEFAULT_FCIDUMP = os.path.normpath(os.path.join(_DATA_DIR, "fcidump_cycle_6"))
+_DEFAULT_GAMMA   = os.path.normpath(os.path.join(
+    _HERE, '..', '..', 'Outputs', 'mfa',
+    'outs_extract_full_gamma_20260417_002006', 'gamma_mixed_diag.npy'))
+_DEFAULT_DETS = os.path.normpath(os.path.join(_DATA_DIR, "dets.npz"))
 
 TRIMCI_CONFIG = {
     "threshold": 0.06,

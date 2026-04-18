@@ -38,12 +38,12 @@ from pathlib import Path
 import numpy as np
 
 ROOT = Path(__file__).resolve().parents[2]
-_DATA = ROOT / "Fe4S4_251230orbital_-327.1920_10kdets" / "Fe4S4_251230orbital_-327.1920_10kdets"
+_DATA               = ROOT / "TrimCI_Flow" / "data"
 FCIDUMP_DEFAULT     = _DATA / "fcidump_cycle_6"
 DETS_NPZ_DEFAULT    = _DATA / "dets.npz"
 GAMMA_DIAG_DEFAULT  = (
-    ROOT / "TrimCI_Flow" / "Outputs" / "meanfield_active"
-    / "outs_extraction_autodets" / "gamma_mixed_final.npy"
+    ROOT / "TrimCI_Flow" / "Outputs" / "mfa"
+    / "outs_extract_full_gamma_20260417_002006" / "gamma_mixed_diag.npy"
 )
 OUTDIR_BASE = ROOT / "TrimCI_Flow" / "Outputs" / "mfa"
 
