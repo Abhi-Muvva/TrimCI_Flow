@@ -36,6 +36,221 @@ active spaces where brute-force TrimCI is infeasible. Fragmentation into overlap
 project validates the fragmentation approach and quantifies the cost reduction on a system
 where we can measure it exactly.
 
+---
+
+## What Is Being Compared?
+
+This project compares three related but different ideas:
+
+1. **Full TrimCI**
+2. **Original QFlow**
+3. **TrimCI-Flow**, the fragmented method in this repository
+
+They can all start from the same molecular Hamiltonian, but they do not solve it in the
+same way.
+
+### The Shared Input: FCIDUMP
+
+The file `data/fcidump_cycle_6` is the Hamiltonian input. It contains the one-electron
+and two-electron integrals for the 36-orbital Fe4S4 active space:
+
+```text
+h1[p,q]
+eri[p,q,r,s] = (pq|rs)
+n_orb = 36
+n_elec = 54
+E_nuc = 0.0
+```
+
+Both full TrimCI and TrimCI-Flow read this same FCIDUMP. The difference is what they do
+after reading it.
+
+The FCIDUMP is not the final TrimCI wavefunction. It is the Hamiltonian that TrimCI
+solves. The reference determinant archive `data/dets.npz` is output from a full TrimCI
+calculation and is used here for reference electron counting and benchmarking.
+
+### Full TrimCI: One Global Selected-CI Solve
+
+Full TrimCI treats the Fe4S4 active space as one problem:
+
+```text
+same FCIDUMP
+→ one 36-orbital / 54-electron Hamiltonian
+→ selected-CI expansion over the full active space
+→ determinants can excite across any orbitals globally
+→ E_ref ≈ -327.1920 Ha
+→ about 10,095 selected determinants
+```
+
+This is the most accurate calculation available in this project and is used as the
+reference. It is still not full FCI in the literal sense; TrimCI is a selected-CI method.
+But it is a full-active-space selected-CI solve, not a fragmented approximation.
+
+For Fe4S4, the full FCI determinant space would be astronomically larger than 10,095
+determinants. TrimCI makes the full active-space reference tractable by selecting only
+the important determinants.
+
+### Original QFlow: Many Small SES Fragments + Amplitude Iteration
+
+Original QFlow is a fragment-based active-space method. In the QFlow papers, the active
+space is broken into many small subsystem embedding subspaces, often called SES blocks.
+For QFlow(4e,4o), each SES is a small active space built from combinations of occupied
+and virtual orbitals.
+
+The core QFlow idea is:
+
+```text
+enumerate many SES fragments
+→ build an effective Hamiltonian for each SES
+→ solve each SES, often with VQE or exact diagonalization
+→ update a shared excitation-amplitude pool
+→ rebuild effective Hamiltonians
+→ iterate many times until the shared amplitude description converges
+```
+
+That is why even H-chain QFlow examples can involve many fragments and many optimization
+iterations. The molecule is small, but the algorithm is amplitude-coupled and iterative.
+
+For Fe4S4, a naive QFlow(4e,4o) enumeration would create far too many SES blocks because
+there are 27 occupied spatial orbitals and only 9 virtual spatial orbitals per spin in
+the reference determinant. The occupied-side combinatorics are the wall.
+
+The current reference QFlow implementation also builds effective Hamiltonians using a
+similarity transform in the full determinant space:
+
+```text
+H_eff = V^T exp(-sigma_ext) H exp(+sigma_ext) V
+```
+
+That full-space construction is not tractable for Fe4S4. This is why TrimCI-Flow does
+not simply run the original QFlow code on this system.
+
+### TrimCI-Flow: Coarse Fragmented TrimCI Embedding
+
+TrimCI-Flow keeps the useful QFlow idea, but changes the implementation:
+
+```text
+same FCIDUMP
+→ split the 36 orbitals into a few larger fragments
+→ dress each fragment Hamiltonian with environment information
+→ solve each fragment with TrimCI
+→ assemble an approximate total energy
+→ compare against the full TrimCI reference
+```
+
+The current Phase D method uses three non-overlapping 12-orbital fragments:
+
+```text
+F0: 12 orbitals
+F1: 12 orbitals
+F2: 12 orbitals
+```
+
+All fragments are included. In the h1-diagonal partition, F2 is closed-shell in the
+reference determinant, so its local CI space has only one determinant. That means the
+fragment is solved, but the solve is trivial.
+
+The best Phase D result is:
+
+```text
+E_total = -326.568151 Ha
+error vs full TrimCI reference = +0.623849 Ha
+fragment_n_dets = [1008, 1008, 1]
+total fragment determinants = 2017
+```
+
+This should not be described as solving the full Fe4S4 CI problem exactly. It is a
+fragmented approximation to the full active-space problem. The full active space is
+covered by fragments, but cross-fragment correlation is only approximated.
+
+### Why TrimCI-Flow Runs So Much Faster
+
+TrimCI-Flow is fast because it avoids one large global selected-CI solve and avoids the
+many-SES iterative QFlow amplitude loop.
+
+Instead of:
+
+```text
+one 36-orbital selected-CI expansion
+```
+
+or:
+
+```text
+many QFlow SES fragments × many amplitude iterations
+```
+
+Phase D does:
+
+```text
+three 12-orbital fragment TrimCI solves
+one energy assembly step
+no QFlow amplitude pool
+no self-consistent amplitude loop
+```
+
+That is why a notebook can regenerate the best Phase D result in minutes. It is not
+doing the same calculation as full TrimCI or original QFlow. It is doing a cheaper
+fragmented approximation using TrimCI as the fragment solver.
+
+### Cost-Accuracy Tradeoff
+
+The important comparison is not "same exact solve, faster." The important comparison is:
+
+> Same FCIDUMP input, cheaper fragmented approximation, measured against the full
+> TrimCI reference.
+
+For Fe4S4:
+
+| Method | What is solved | Determinants | Energy (Ha) | Error vs −327.1920 |
+|--------|----------------|-------------:|------------:|-------------------:|
+| Full TrimCI reference | One full 36-orbital selected-CI problem | 10,095 | −327.1920 | 0.000 |
+| Phase D loose D2 | Three 12-orbital embedded fragments | 147 | −326.511333 | +0.680667 |
+| Phase D best D2 | Three 12-orbital embedded fragments | 2017 | −326.568151 | +0.623849 |
+
+So the current result is:
+
+```text
+2017 / 10095 ≈ 20%
+```
+
+or about five times fewer selected determinants than the full TrimCI reference, with an
+energy error of about `0.624 Ha`.
+
+At the loose D2 setting:
+
+```text
+147 / 10095 ≈ 1.46%
+```
+
+or roughly 69 times fewer selected determinants, with an energy error of about `0.681 Ha`.
+
+The research question is whether more QFlow-like cross-fragment coupling can reduce that
+accuracy loss while keeping the determinant cost far below the full TrimCI reference.
+
+### What TrimCI-Flow Does and Does Not Claim
+
+TrimCI-Flow does claim:
+
+- The full active space is covered by fragments.
+- Every fragment is solved with TrimCI.
+- The same FCIDUMP Hamiltonian is used as the full TrimCI reference.
+- The fragmented method is much cheaper than the full selected-CI reference.
+- The resulting energy can be benchmarked directly against full TrimCI.
+
+TrimCI-Flow does not claim:
+
+- It exactly solves the full 36-orbital active-space CI problem.
+- It is already full QFlow amplitude coupling.
+- Exact fragment solves automatically imply exact full-system energy.
+- Summing fragment energies is valid without a defined embedding/correction formula.
+
+The honest summary is:
+
+> TrimCI-Flow is an end-to-end fragmented approximation solver. It uses the same
+> FCIDUMP as full TrimCI, solves all orbital regions through fragments, and trades some
+> accuracy for a large reduction in selected-determinant cost.
+
 ### Core Difficulties
 
 - **Stochastic 1-RDM noise** — TrimCI has shot-to-shot variance in off-diagonal gamma
